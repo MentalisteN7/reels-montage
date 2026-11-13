@@ -95,6 +95,7 @@
 Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 plans, ~1,5 s/plan, `docs/ref/cote/`)
 - 🟡 **Phrase d'accroche qui interpelle le spectateur au « tu »** et cible un besoin : « Si t'es fauché mais que t'adores la bonne viande, j'ai trouvé le resto idéal pour toi. »
 - 🟡 **Signature fixe à ~3-5 s** : « Moi c'est Harry, l'influenceur en carton, et je… »
+- ✅ **« PAS CHER » + viande = ce qui a le mieux marché** (confirmé par Harry)
 - 🟡 Hook visuel Côte de Bœuf : plongée table pleine → **flammes du grill** (mouvement + chaleur) → dessert à la cuillère (texture) → invité qui mange. Toujours 5 plans / 3 s
 - 🟡 Présentation lieu : extérieur (enseigne, rue), entrée, déco intérieure, ardoise/menu + **prix toujours dits**
 - 🟡 Invités récurrents avec surnom (Goose le bulldog, Erwan le rugbyman…) — interviewés **devant la façade**, micro-cravate, carton de note
@@ -102,6 +103,30 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 - 🟡 On **garde les moments drôles** (carton « 999 », « Merci pour cette blague »)
 - 🟡 Fin avec **appel à l'engagement** (« si vous aimez ce personnage je le réinviterai », débat en commentaires)
 - 🟡 La Côte de Bœuf : pas de carton titre, pas de sous-titres (cartons = nouveauté série Kebab)
+
+## 11. Ce qui sépare les Reels qui marchent des autres (16 Reels analysés, 8 avec stats)
+> n petit → tendances, pas des lois. Données : `docs/stats/`, analyses : `docs/analyses/`
+
+| Reel | Vues | Save % | Plan moyen | Plans < 3 s | 1re phrase |
+|---|---|---|---|---|---|
+| Le Jeez | 226 k | 2,14 | 1,30 s | 4 | « Les burgers **les moins chers** de Toulouse, **tu devineras jamais** combien on a payé… » |
+| Côte de Bœuf | 76 k | 1,52 | 1,54 s | 5 | « Si **t'es fauché** mais que t'adores la bonne viande… » |
+| Les Thermes | 45 k | 1,57 | 1,75 s | 3 | « Les célèbres **nouilles de 2 mètres**… reviennent enfin » |
+| Le Roll | 39 k | 2,30 | 1,39 s | 4 | « Des brioches gourmandes… à tester de toute urgence » |
+| Joshore Road | 17 k | 2,18 | 1,41 s | 3 | « Ce resto m'a fait redécouvrir la gastronomie indienne… » |
+| Le May 2 | 15 k | 0,64 | 1,57 s | 3 | « Je vous ai négocié un bon plan… » |
+| Bouillon Capitole | 12 k | 0,11 | **2,05 s** | 2 | « Quelle note pour ce plat ! » |
+
+### Règles tirées
+1. 🟡 **De la nourriture dans le cadre dès la 1re frame.** Bouchée, table pleine, plat qui déborde.
+   Contre-exemples : Bouillon (2,7 s de place du Capitole avant le 1er plat → le pire score), Bep Chay (invité + façade d'abord).
+2. 🟡 **1re phrase = prix bas / bon plan OU élément spectaculaire, avec une promesse ou une énigme** (« tu devineras jamais combien »).
+   Une phrase sortie d'une interview (« Quelle note pour ce plat ») ne fonctionne pas comme hook.
+3. 🟡 **Le top coupe plus vite** : ~1,3-1,5 s/plan, ≥ 4 plans dans les 3 premières secondes. Le moins bon est à 2 s/plan.
+4. 🟡 **Abondance** : plongée sur une table remplie (Jeez, Côte de Bœuf, Joshore, Le May) = image de hook récurrente.
+5. 🟡 **Le spectaculaire filmé en action** (nouilles de 2 m, flammes du grill) remplace le prix quand il n'y en a pas.
+6. 🟡 Les Reels en dessous ont souvent un hook « description » (gastronomie, ambiance) sans prix ni promesse.
+7. 🟡 Le Mood : ouvrir sur une **capture d'un média** (La Dépêche) = preuve sociale + prix (5 €) — piste à tester (pas de stats).
 
 ## Questions ouvertes
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)
