@@ -15,6 +15,11 @@ Montage de Reels (Instagram/TikTok, 9:16) pour **@guestlunch** (Harry, « l'infl
 
 ## Rushes
 - Rushes d'origine H.264, ~1080×1920, 30 fps. Voix off de Harry **enregistrée à part**, invités en son direct (micro-cravate).
+- ⚠️ **La voix off contient des prises répétées** (Harry redit une phrase s'il a mal articulé ou si l'intonation ne lui plaît pas).
+  Il faut : transcrire (timestamps par mot) → regrouper les prises d'une même phrase (similarité de texte) → choisir.
+  Règle par défaut : **la dernière prise complète sans accroc** (pas de « euh », pas de mot écorché, confiance Whisper correcte, phrase non coupée).
+  Ne pas prétendre juger l'intonation : signaler les choix incertains et lister les prises alternatives avec leurs timecodes pour que Harry tranche.
+  Noter dans `DA.md` les préférences de Harry au fil des corrections.
 - Les rushes ne vont **jamais** dans git (`.gitignore`). Les mettre dans `rushes/<episode>/`.
 
 ## Outils
