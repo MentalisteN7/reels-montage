@@ -56,7 +56,16 @@
 - ✅ Carte **Google Maps** (capture d'écran : nom du lieu, note ★, nb d'avis) incrustée sur un plan de rue — **à garder**
   - ✅ Ajouter des **bruitages** d'apparition (pop-up, etc.)
   - ✅ C'est moi (Claude) qui vais chercher la capture
-- ✅ Sous-titres : **oui, à mettre** (style à définir ensemble)
+- ✅ Sous-titres : **oui** — voir §6bis
+
+## 6bis. Sous-titres (base de départ — Harry testera des variantes)
+- ✅ Police **simple, classique, très lisible** (sans-serif)
+- ✅ **3 à 4 mots par apparition**
+- ✅ **1 mot mis en highlight** par apparition : le plus impactant
+- ✅ Placement **hors des zones d'UI TikTok/Insta** : pas tout en bas, pas sur toute la largeur
+  - 🟡 Proposition : centré, vers ~60-65 % de la hauteur, largeur max ~75 %, marge droite pour les boutons like/comment
+- ✅ **Emojis liés au texte uniquement pendant les 5 premières secondes**, ensuite non (sauf exception justifiée)
+- ✅ Rien n'est figé : style amené à évoluer, garder ça paramétrable
 
 ## 7. Image / étalonnage
 - ✅ Look naturel, pas de LUT marquée, ciel couvert, couleurs telles que sorties du téléphone
@@ -83,5 +92,4 @@
 - (à compléter)
 
 ## Questions ouvertes
-- Style des sous-titres (à définir demain)
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)
