@@ -1,0 +1,4 @@
+faster-whisper
+numpy
+pandas
+openpyxl
