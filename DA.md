@@ -113,6 +113,7 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 | Côte de Bœuf | 76 k | 1,52 | 1,54 s | 5 | « Si **t'es fauché** mais que t'adores la bonne viande… » |
 | Les Thermes | 45 k | 1,57 | 1,75 s | 3 | « Les célèbres **nouilles de 2 mètres**… reviennent enfin » |
 | Le Roll | 39 k | 2,30 | 1,39 s | 4 | « Des brioches gourmandes… à tester de toute urgence » |
+| Maison du Curry | 25 k | 0,36 | **2,78 s** | 2 | « POV, tu juges les restos avec les copains… peut-être le meilleur indien » |
 | Joshore Road | 17 k | 2,18 | 1,41 s | 3 | « Ce resto m'a fait redécouvrir la gastronomie indienne… » |
 | Le May 2 | 15 k | 0,64 | 1,57 s | 3 | « Je vous ai négocié un bon plan… » |
 | Bouillon Capitole | 12 k | 0,11 | **2,05 s** | 2 | « Quelle note pour ce plat ! » |
