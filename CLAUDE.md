@@ -19,6 +19,9 @@ Montage de Reels (Instagram/TikTok, 9:16) pour **@guestlunch** (Harry, « l'infl
   Il faut : transcrire (timestamps par mot) → regrouper les prises d'une même phrase (similarité de texte) → choisir.
   Règle par défaut : **la dernière prise complète sans accroc** (pas de « euh », pas de mot écorché, confiance Whisper correcte, phrase non coupée).
   Ne pas prétendre juger l'intonation : signaler les choix incertains et lister les prises alternatives avec leurs timecodes pour que Harry tranche.
+  Critère supplémentaire : **clics de bouche** (inaudibles en vrai, audibles au micro). Les détecter (transitoires brefs dans les aigus)
+  pour départager les prises, puis nettoyer la voix off retenue avec ffmpeg `adeclick` (réglage doux, toujours faire écouter un avant/après
+  à Harry). Attention aux faux positifs sur les consonnes « t », « k », « p ».
   Noter dans `DA.md` les préférences de Harry au fil des corrections.
 - Les rushes ne vont **jamais** dans git (`.gitignore`). Les mettre dans `rushes/<episode>/`.
 
