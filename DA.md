@@ -91,5 +91,17 @@
 ## 9. À ne jamais faire
 - (à compléter)
 
+## 10. Patterns du compte @guestlunch (analyse en cours : 2 Reels / 16)
+Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 plans, ~1,5 s/plan, `docs/ref/cote/`)
+- 🟡 **Phrase d'accroche qui interpelle le spectateur au « tu »** et cible un besoin : « Si t'es fauché mais que t'adores la bonne viande, j'ai trouvé le resto idéal pour toi. »
+- 🟡 **Signature fixe à ~3-5 s** : « Moi c'est Harry, l'influenceur en carton, et je… »
+- 🟡 Hook visuel Côte de Bœuf : plongée table pleine → **flammes du grill** (mouvement + chaleur) → dessert à la cuillère (texture) → invité qui mange. Toujours 5 plans / 3 s
+- 🟡 Présentation lieu : extérieur (enseigne, rue), entrée, déco intérieure, ardoise/menu + **prix toujours dits**
+- 🟡 Invités récurrents avec surnom (Goose le bulldog, Erwan le rugbyman…) — interviewés **devant la façade**, micro-cravate, carton de note
+- 🟡 Pendant qu'un invité décrit son plat → **B-roll du plat qu'il nomme** (synchro parole/image)
+- 🟡 On **garde les moments drôles** (carton « 999 », « Merci pour cette blague »)
+- 🟡 Fin avec **appel à l'engagement** (« si vous aimez ce personnage je le réinviterai », débat en commentaires)
+- 🟡 La Côte de Bœuf : pas de carton titre, pas de sous-titres (cartons = nouveauté série Kebab)
+
 ## Questions ouvertes
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)
