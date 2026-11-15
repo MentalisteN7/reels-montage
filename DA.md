@@ -6,8 +6,9 @@
 
 ## 1. Format technique
 - 🟡 1080×1920 (9:16), 29.97 fps, H.264 ~20 Mb/s, AAC 48 kHz stéréo
-- 🟡 Durée 57 s (cible : 45 s – 1 min 30)
+- ✏️ Durée cible : **60 s – 90 s** (réf. Mac Ankara : 57 s)
 - 🟡 Tourné au smartphone, à la main (pas de stabilisateur visible)
+- ✅ Rushes à 60/120/240 fps (le téléphone change seul de cadence) : **toujours traités à vitesse réelle, conformés en 30 fps. Pas de ralenti.**
 
 ## 2. Concept / série
 - ✅ Page Instagram/TikTok **@guestlunch** : je (Harry, « l'influenceur en carton ») mange avec des amis.
@@ -30,6 +31,7 @@
 
 ## 4. Rythme
 - 🟡 48 plans / 57 s → **~1,2 s par plan en moyenne**
+- 🟡 (13/11/2026, `docs/stats/ANALYSE_TYPES_RYTHME.md`) Sur 16 Reels : plus c'est découpé, plus ça marche (Spearman −0,51). Top 3 du compte à **1,2–1,3 s/plan** ; ≥ 40k vues : médiane 1,39 s/plan, < 40k : 1,71. Cible proposée **1,0–1,3 s/plan**, ≥ 4 plans dans les 3 premières secondes
 - 🟡 Hook ultra rapide (0,43 s/plan), parties « avis » beaucoup plus posées
 - ✅ Coupes franches uniquement — pas de transitions
 - ✅ Pas de zoom dans la réf. Autorisé mais **très très peu** (ponctuel, pour souligner une réaction ou un détail)
@@ -46,6 +48,10 @@
 - 🟡 Fond : texture **papier blanc froissé** plein écran
 - ✅ **Série Kebab : garder cette DA et l'améliorer. Autres séries : innover (nouvelle DA à proposer).**
 - ✅ À recréer moi-même (texture papier, typos, détourage)
+- ✏️ (v4, d'après la réf. Kebab image par image) **Animation du carton titre** : ~36 images (1,2 s). Papier : la texture reste **12 images, puis son reflet miroir 12 images**, et ainsi de suite (pas de tremblement). Plat détouré : apparaît à l'image 1 avec un **zoom/dézoom** (petit → trop gros → taille finale en ~6 images), puis **rotation lente** sur tout le carton (Harry : « de -45° à 45° » ; mesuré dans la réf. ≈ -4,5° → +4,5° — à confirmer). Textes rouges fixes, sans animation. **Son « pop »** à l'apparition du plat (pas de whoosh). ✏️ (v7) **Utiliser le pop d'Harry** : `D:\Harrison\Influencer\sound_effects\pop.mp4` (copié en `public/sfx/pop_harry.wav`), posé au début du carton / de la carte Maps, niveau d'origine
+- ✏️ **Carton titre de présentation = la DA Kebab pour tous les épisodes** (Marcello v2 → v3) : papier froissé **qui bouge** (stop-motion, la feuille change de pose toutes les 3 images), photo du plat **détourée en sticker** (liseré blanc) en haut, textes **rouges** en bas (petite ligne fine + nom du lieu en slab gras). Texture papier fournie par Harry : `public/img/paper.jpg`
+- ✅ Hors série Kebab, carton titre **posé sur le mot de la voix off qui nomme le lieu** (ex. « On se retrouve chez *Marcello* ») → pas besoin de voix off dédiée
+- ✅ Carton résultat sans voix off : les notes des invités apparaissent une à une (SFX) puis la moyenne — **validé (« TOP ! », Marcello v1)**
 - 🟡 Titre : photo de l'assiette **détourée façon sticker** (liseré blanc) en haut + texte centré en bas
   - « Episode 2 » : rouge, sans-serif fin
   - « Meilleur Kebab de Toulouse » : rouge (~#D0021B), **serif slab gras**, 2 lignes
@@ -53,19 +59,35 @@
 - 🟡 Résultat : même papier, **police script/manuscrite rouge** : « Mac Ankara 8 / 10 », puis « 1er : … 8/10 / 2ème : Délices d'Orient 6/10 »
 
 ## 6. Overlays
-- ✅ Carte **Google Maps** (capture d'écran : nom du lieu, note ★, nb d'avis) incrustée sur un plan de rue — **à garder**
-  - ✅ Ajouter des **bruitages** d'apparition (pop-up, etc.)
+- ✅ Carte **Google Maps** incrustée sur un plan de rue — **à garder**
+  - ✏️ Format = **carte compacte : nom du lieu + ligne de note** (« 4,4 ★★★★★ (398) »), fond blanc, comme dans la réf. Kebab (« Le Regal d'Orient 4,5 ★ (2 566) »). Pas la photo de la fiche.
+  - ✏️ **Petite** : ~55 % de la largeur (600 px sur 1080), en haut (~15 %), comme la réf. Kebab — la v2 à 880 px était trop grosse
+  - ✅ Ajouter des **bruitages** d'apparition (pop-up, etc.) ; ✅ animation d'apparition « pop » (ressort) validée
   - ✅ C'est moi (Claude) qui vais chercher la capture
+- ✅ **Titres « surnoms »** en haut de l'écran (~13 % de la hauteur), texte blanc sur 2 lignes, ombre douce, pas de fond
+  - ✏️ (v4) **Sobre, rien d'extravagant** : police type TikTok « Classique » semi-grasse, blanc, ombre légère
+  - ✏️ (v5) **Contour noir** autour des lettres (Harry « surligne en noir les bordures ») — mesuré sur le Kebab publié : trait fin ≈ 4 px en 1080p, police grasse (~700), ~76 px
+  - ✏️ (v5) **Jamais deux fois la même entrée ni la même sortie dans une vidéo** (v4 : Guigui avait la même entrée que Harry). Harry utilise les animations texte de **CapCut** (simples) : glissé, montée, machine à écrire, balayage, zoom / sortie glissée, vers le haut, flou, vers le bas, rétrécit
+  - ✏️ **Chaque surnom a une entrée/sortie différente** (réf. Kebab : glissé depuis la droite en italique + flou → sortie glissée à gauche ; montée en fondu → sortie vers le haut en fondu) — ~8 images d'entrée, ~7 de sortie, ~2,7 s à l'écran
+  - ✏️ **Démarre dès que la personne est annoncée** (mot de la VO « … avec *Guigui* »), pas au début de son interview
+  - ✅ Harry dit souvent les surnoms en voix off ; à décider **au cas par cas** (Marcello : oubliés en VO)
+  - Fiche prénoms / surnoms / visages : `docs/invites/`
+  - Harry : « L'influenceur / en carton » sur **Harry à l'image** (il mange face cam) quand il se présente
+  - Invités : « Le bouledogue / & / Sa sœur », « Le Rugbyman / & / L'expert » au moment où on présente l'invité
+  - Animation : entrée rapide (glissé depuis la droite avec flou de mouvement, ~4 images) ou fondu + flou ; ~2,5-3 s à l'écran
+- ✅ **Harry à l'image** : quand la VO dit « moi c'est Harry », montrer **Harry** (selfie / face cam), jamais un invité. Harry filme : ses selfies sont reconnaissables (rush face caméra frontale).
 - ✅ Sous-titres : **oui** — voir §6bis
 
-## 6bis. Sous-titres (base de départ — Harry testera des variantes)
-- ✅ Police **simple, classique, très lisible** (sans-serif)
-- ✅ **3 à 4 mots par apparition**
-- ✅ **1 mot mis en highlight** par apparition : le plus impactant
-- ✅ Placement **hors des zones d'UI TikTok/Insta** : pas tout en bas, pas sur toute la largeur
-  - 🟡 Proposition : centré, vers ~60-65 % de la hauteur, largeur max ~75 %, marge droite pour les boutons like/comment
-- ✅ **Emojis liés au texte uniquement pendant les 5 premières secondes**, ensuite non (sauf exception justifiée)
+## 6bis. Sous-titres
+- ✏️ (v4) **Aucune animation** sur les sous-titres (pas de zoom/dézoom) : juste l'affichage, mots clés en jaune
+- ✏️ Police : **TikTok Sans** (la police « Classique » de TikTok, libre, Google Fonts), graisse ~700, **blanc avec fin contour noir** + légère ombre
+- ✏️ (v5) **Mot(s) clé(s) en jaune exact #F0FF00** (RGB 240,255,0, jaune-vert citron, mesuré au pixel sur le Kebab publié ; la v4 en #FFF200 tirait vers l'orange), **un peu plus gros** que les petits mots (« **Palais** de **justice** », « **L'influenceur** en **carton** ») — 1 ou 2 mots par apparition
+- ✏️ **4 mots max, UNE seule ligne par apparition** (jamais 2 lignes)
+- ✏️ **Découpe cohérente avec le sens de la phrase**, pas seulement le rythme : « Les meilleures pizzas » / « de Toulouse », jamais « Les meilleures pizzas de » / « Toulouse ». Ne jamais finir une apparition sur un petit mot (de, les, à, et, une…).
+- ✅ Placement **hors des zones d'UI TikTok/Insta** : centré, vers ~62 % de la hauteur, largeur max ~75 %
+- ✅ **Emojis uniquement pendant les 5 premières secondes**, ✏️ **en fin de phrase, sur une ligne à part** (sous le texte), pas sur la même ligne
 - ✅ Rien n'est figé : style amené à évoluer, garder ça paramétrable
+- ✅ Paroles des invités : **corriger les fautes** dans les sous-titres (ne pas transcrire mot à mot les erreurs)
 
 ## 7. Image / étalonnage
 - ✅ Look naturel, pas de LUT marquée, ciel couvert, couleurs telles que sorties du téléphone
@@ -74,8 +96,20 @@
 ## 8. Son
 - ✅ **Pas de musique**
 - ✅ **Voix off de Harry enregistrée à part**, posée sur les rushes ; puis passages où les invités parlent face cam (son direct, micro-cravate)
-- ✅ Audio continu, aucun blanc
-- ✅ Bruitages (SFX) sur les overlays (pop-up Google Maps…)
+- ✏️ (v5) **Pluie / bruit de fond** (Marcello, passage de Meg) : c'était la pluie, pas un défaut de traitement. Dans Premiere, Harry applique le préréglage **Essential Sound « Dialogue »** (Restauration + Clarté) sur toutes les paroles → piste pour la suite : réduction de bruit douce sur les interviews tournées dehors, à valider à l'oreille
+- ✏️ (v4) **Qualité du son des interviews** : garder la qualité d'origine, juste **monter le volume sans saturer** (pas de traitement « amélioration »). Les micro-cravates sont déjà très forts au tournage (crêtes à 0 dB) → mixage depuis les fichiers originaux, gain fixe, limiteur à -1 dB
+- ✏️ Pas de whoosh sur le carton titre (bruit bizarre) → pop
+- ✅ Audio continu, **aucun blanc — priorité n°1 du dynamisme**
+  - ✏️ **Fin de phrase coupée 1-2 images avant la fin du mot** : on comprend le mot mais on raccourcit la dernière syllabe (« restau-rant » : la syllabe dure 3-4 images, en garder 2)
+  - ✏️ **Aucun silence entre les phrases de VO** (on enchaîne directement)
+  - ✏️ Invités : **couper les « euh », hésitations et silences** dans les interviews
+  - ✏️ Pour cacher ces coupes : **plan de plat / B-roll par-dessus** (on n'entend que la voix) — déjà bien fait, à systématiser
+  - ✏️ (v3) **Rogner encore quelques images à gauche et à droite de chaque coupe** pour accélérer la parole : attaque prise au ras, fin raccourcie de ~2 images. Limite constatée : à ~2,7 images on mange les mots courts de fin (« dix », « neuf ») → **les notes des invités ne sont presque pas rognées**
+- ✅ Bruitages (SFX) sur les overlays (pop-up Google Maps…) — banques libres de droits (Mixkit…), Harry n'a pas de banque perso
+- ✅ **L'ordre des phrases de la voix off est intouchable.** On choisit la meilleure prise de chaque phrase, on peut resserrer les silences, jamais réordonner.
+- ✅ Son direct des rushes (réactions à table) : en général non (mauvais son) ; seulement s'il est propre et s'intègre bien.
+- ✅ Les blagues de la voix off restent telles quelles (ex. « les meilleures pizzas de Toulouse se trouvent à Toulouse », « ami d'enfance depuis un an »).
+- ✅ Harry ne teste que des restos à Toulouse.
 - Transcription : `tools/transcribe.py` (faster-whisper medium, FR, timestamps par mot) — voir `docs/ref/macankara.words.json`
 
 ### Script de la réf. (pattern de narration)
@@ -99,7 +133,12 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 - 🟡 Hook visuel Côte de Bœuf : plongée table pleine → **flammes du grill** (mouvement + chaleur) → dessert à la cuillère (texture) → invité qui mange. Toujours 5 plans / 3 s
 - 🟡 Présentation lieu : extérieur (enseigne, rue), entrée, déco intérieure, ardoise/menu + **prix toujours dits**
 - 🟡 Invités récurrents avec surnom (Goose le bulldog, Erwan le rugbyman…) — interviewés **devant la façade**, micro-cravate, carton de note
-- 🟡 Pendant qu'un invité décrit son plat → **B-roll du plat qu'il nomme** (synchro parole/image)
+- ✏️ Pendant qu'un invité décrit son plat → **B-roll du BON plat qu'il nomme** (synchro parole/image). Vérifier chaque insert (planche plan + sous-titre) : pas de pizza mortadelle quand on parle de la tartufata
+- ✏️ **Début d'interview** : « Alors moi j'ai pris un… » → on voit l'invité (~0,6 s, titre surnom) puis **le plat apparaît sur le mot du plat**, ensuite on **jongle** : plat → description (gros plan) → invité qui parle → invité qui mange → …
+- 🟡 (v6, mesuré sur les 84 projets Premiere d'Harry) **Le visage de l'invité domine** : le B-roll ne couvre que ~23 % du temps d'interview (2–3 inserts de ~1,2–1,5 s par invité, sur les plats nommés) et **~76 % des coupes internes restent en jump cut visible** — on ne cache pas chaque coupe. Pas de prise face cam > ~4 s sans insert
+- 🟡 (v6) **Accroche** : glisser un **teaser du carton de note** (invité qui brandit son 10) dans les 5 premières secondes (Jeez, Le Roll)
+- 🟡 (v6) **Présentation d'Harry** : jump cuts du même rush de bouchée (sourire → bouchée → mâche → satisfait), ~0,8 s chacun (Les Thermes)
+- Référence complète : `docs/montage_harry/COMMENT_HARRY_MONTE.md`
 - 🟡 On **garde les moments drôles** (carton « 999 », « Merci pour cette blague »)
 - 🟡 Fin avec **appel à l'engagement** (« si vous aimez ce personnage je le réinviterai », débat en commentaires)
 - 🟡 La Côte de Bœuf : pas de carton titre, pas de sous-titres (cartons = nouveauté série Kebab)

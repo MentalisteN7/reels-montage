@@ -3,3 +3,17 @@ out/
 rushes/
 ref/
 *.mp4
+public/sfx/
+public/rushes/
+public/img/maps_*
+public/vo/
+public/img/sign_*
+public/img/paper*
+public/img/sticker_*
+public/mix/
+
+# données de travail (rushes, projets Premiere, audio) : jamais dans git
+/marcello/
+*.wav
+__pycache__/
+.claude/settings.local.json

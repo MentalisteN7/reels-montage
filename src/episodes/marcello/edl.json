@@ -1,0 +1,2163 @@
+{
+ "fps": 30,
+ "duration": 81.857,
+ "audio": [
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 5.165,
+   "out": 7.803,
+   "at": 0.0,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 9.101,
+   "out": 10.187,
+   "at": 2.638,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 10.404,
+   "out": 11.716,
+   "at": 3.724,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 21.075,
+   "out": 22.554,
+   "at": 5.036,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 24.267,
+   "out": 26.037,
+   "at": 6.515,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 27.362,
+   "out": 28.695,
+   "at": 8.285,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 28.917,
+   "out": 29.522,
+   "at": 9.618,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 31.401,
+   "out": 32.644,
+   "at": 10.223,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 34.877,
+   "out": 36.092,
+   "at": 11.466,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 36.302,
+   "out": 36.775,
+   "at": 12.681,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 37.767,
+   "out": 38.105,
+   "at": 13.154,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 38.342,
+   "out": 38.893,
+   "at": 13.492,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 40.485,
+   "out": 41.941,
+   "at": 14.043,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 49.55,
+   "out": 50.898,
+   "at": 15.499,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 51.382,
+   "out": 51.987,
+   "at": 16.847,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 52.363,
+   "out": 52.888,
+   "at": 17.452,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 54.506,
+   "out": 55.062,
+   "at": 17.977,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 56.74,
+   "out": 57.685,
+   "at": 18.533,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 67.589,
+   "out": 69.493,
+   "at": 19.478,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 90.126,
+   "out": 90.691,
+   "at": 21.382,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 92.613,
+   "out": 95.312,
+   "at": 21.947,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 95.703,
+   "out": 96.914,
+   "at": 24.646,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 6.8,
+   "out": 7.658,
+   "at": 25.857,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 7.925,
+   "out": 10.111,
+   "at": 26.715,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 11.7,
+   "out": 14.12,
+   "at": 28.901,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 30.75,
+   "out": 34.341,
+   "at": 31.321,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225411.mp4",
+   "in": 0.4,
+   "out": 1.294,
+   "at": 34.912,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225411.mp4",
+   "in": 2.0,
+   "out": 2.674,
+   "at": 35.806,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 98.918,
+   "out": 100.03,
+   "at": 36.48,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 2.82,
+   "out": 3.539,
+   "at": 37.592,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 3.814,
+   "out": 4.874,
+   "at": 38.311,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 6.9,
+   "out": 10.52,
+   "at": 39.371,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 10.8,
+   "out": 11.92,
+   "at": 42.991,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225855.mp4",
+   "in": 2.04,
+   "out": 4.56,
+   "at": 44.111,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 101.84,
+   "out": 104.618,
+   "at": 46.631,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 0.0,
+   "out": 1.7,
+   "at": 49.409,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 27.98,
+   "out": 29.831,
+   "at": 51.109,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 30.053,
+   "out": 33.1,
+   "at": 52.96,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 35.24,
+   "out": 39.72,
+   "at": 56.007,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 40.7,
+   "out": 44.723,
+   "at": 60.487,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225808.mp4",
+   "in": 1.05,
+   "out": 3.32,
+   "at": 64.51,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 115.622,
+   "out": 116.107,
+   "at": 66.78,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 116.329,
+   "out": 116.704,
+   "at": 67.265,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 118.116,
+   "out": 119.547,
+   "at": 67.64,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/marcello_vo.wav",
+   "in": 119.963,
+   "out": 120.583,
+   "at": 69.071,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 6.05,
+   "out": 10.187,
+   "at": 69.691,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 13.8,
+   "out": 17.129,
+   "at": 73.828,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 2.0,
+   "out": 3.4,
+   "at": 77.157,
+   "vol": 1.0
+  }
+ ],
+ "video": [
+  {
+   "src": "rushes/marcello/20260109_211845.mp4",
+   "in": 1.7,
+   "at": 0.0,
+   "dur": 0.55
+  },
+  {
+   "src": "rushes/marcello/20260109_215116.mp4",
+   "in": 1.0,
+   "at": 0.55,
+   "dur": 0.55
+  },
+  {
+   "src": "rushes/marcello/20260109_201924.mp4",
+   "in": 1.4,
+   "at": 1.1,
+   "dur": 0.55
+  },
+  {
+   "src": "rushes/marcello/20260109_215534.mp4",
+   "in": 2.2,
+   "at": 1.65,
+   "dur": 0.6
+  },
+  {
+   "src": "rushes/marcello/20260109_201120.mp4",
+   "in": 1.0,
+   "at": 2.25,
+   "dur": 0.55
+  },
+  {
+   "src": "rushes/marcello/20260109_215201.mp4",
+   "in": 0.6,
+   "at": 2.8,
+   "dur": 0.85
+  },
+  {
+   "src": "rushes/marcello/20260109_225411.mp4",
+   "in": 0.9,
+   "at": 3.65,
+   "dur": 0.75
+  },
+  {
+   "src": "rushes/marcello/20260109_215741.mp4",
+   "in": 10.6,
+   "at": 4.4,
+   "dur": 0.636
+  },
+  {
+   "src": "rushes/marcello/20260131_175400.mp4",
+   "in": 3.6,
+   "at": 5.036,
+   "dur": 1.6
+  },
+  {
+   "src": "rushes/marcello/20260109_201408.mp4",
+   "in": 9.0,
+   "at": 6.636,
+   "dur": 1.1
+  },
+  {
+   "src": "rushes/marcello/20260109_201427.mp4",
+   "in": 1.0,
+   "at": 7.736,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_201437.mp4",
+   "in": 4.4,
+   "at": 8.736,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_201101.mp4",
+   "in": 0.8,
+   "at": 9.736,
+   "dur": 0.487
+  },
+  {
+   "src": "rushes/marcello/20260109_201208.mp4",
+   "in": 1.0,
+   "at": 10.223,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/marcello/20260109_201330.mp4",
+   "in": 13.0,
+   "at": 11.023,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/marcello/20260109_201532.mp4",
+   "in": 7.0,
+   "at": 11.823,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/marcello/20260109_201848.mp4",
+   "in": 10.0,
+   "at": 12.623,
+   "dur": 0.531
+  },
+  {
+   "src": "rushes/marcello/20260109_215741.mp4",
+   "in": 9.0,
+   "at": 13.154,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/marcello/20260109_215741.mp4",
+   "in": 10.3,
+   "at": 13.954,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/marcello/20260109_215741.mp4",
+   "in": 11.3,
+   "at": 14.754,
+   "dur": 0.745
+  },
+  {
+   "src": "rushes/marcello/20260131_175325.mp4",
+   "in": 0.4,
+   "at": 15.499,
+   "dur": 2.4
+  },
+  {
+   "src": "rushes/marcello/20260131_175346.mp4",
+   "in": 0.3,
+   "at": 17.899,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_201021.mp4",
+   "in": 0.5,
+   "at": 19.099,
+   "dur": 0.379
+  },
+  {
+   "src": "rushes/marcello/20260109_201940.mp4",
+   "in": 8.0,
+   "at": 19.478,
+   "dur": 0.9
+  },
+  {
+   "src": "rushes/marcello/20260109_215019.mp4",
+   "in": 0.4,
+   "at": 20.378,
+   "dur": 1.004
+  },
+  {
+   "src": "rushes/marcello/20260109_211823.mp4",
+   "in": 6.8,
+   "at": 21.382,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_211647.mp4",
+   "in": 3.0,
+   "at": 22.582,
+   "dur": 1.1
+  },
+  {
+   "src": "rushes/marcello/20260109_211713.mp4",
+   "in": 0.5,
+   "at": 23.682,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/marcello/20260109_211731.mp4",
+   "in": 0.3,
+   "at": 24.682,
+   "dur": 1.175
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 6.8,
+   "at": 25.857,
+   "dur": 0.858
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 7.925,
+   "at": 26.715,
+   "dur": 0.575
+  },
+  {
+   "src": "rushes/marcello/20260109_211845.mp4",
+   "in": 1.7,
+   "at": 27.29,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_211731.mp4",
+   "in": 0.3,
+   "at": 28.49,
+   "dur": 1.1
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 12.389,
+   "at": 29.59,
+   "dur": 1.731
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 30.75,
+   "at": 31.321,
+   "dur": 1.13
+  },
+  {
+   "src": "rushes/marcello/20260109_211731.mp4",
+   "in": 3.2,
+   "at": 32.451,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_225314.mp4",
+   "in": 33.08,
+   "at": 33.651,
+   "dur": 1.261
+  },
+  {
+   "src": "rushes/marcello/20260109_225411.mp4",
+   "in": 0.4,
+   "at": 34.912,
+   "dur": 0.894
+  },
+  {
+   "src": "rushes/marcello/20260109_225411.mp4",
+   "in": 2.0,
+   "at": 35.806,
+   "dur": 0.674
+  },
+  {
+   "src": "rushes/marcello/20260109_215546.mp4",
+   "in": 0.1,
+   "at": 36.48,
+   "dur": 1.112
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 2.82,
+   "at": 37.592,
+   "dur": 0.719
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 3.814,
+   "at": 38.311,
+   "dur": 0.246
+  },
+  {
+   "src": "rushes/marcello/20260109_215201.mp4",
+   "in": 0.3,
+   "at": 38.557,
+   "dur": 1.3
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 7.386,
+   "at": 39.857,
+   "dur": 0.634
+  },
+  {
+   "src": "rushes/marcello/20260109_215042.mp4",
+   "in": 4.2,
+   "at": 40.491,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_225828.mp4",
+   "in": 9.22,
+   "at": 41.691,
+   "dur": 1.24
+  },
+  {
+   "src": "rushes/marcello/20260109_215546.mp4",
+   "in": 0.0,
+   "at": 42.931,
+   "dur": 1.18
+  },
+  {
+   "src": "rushes/marcello/20260109_225855.mp4",
+   "in": 2.04,
+   "at": 44.111,
+   "dur": 2.52
+  },
+  {
+   "src": "rushes/marcello/20260109_215534.mp4",
+   "in": 3.8,
+   "at": 46.631,
+   "dur": 1.4
+  },
+  {
+   "src": "rushes/marcello/20260109_215042.mp4",
+   "in": 1.6,
+   "at": 48.031,
+   "dur": 1.378
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 0.0,
+   "at": 49.409,
+   "dur": 1.7
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 27.98,
+   "at": 51.109,
+   "dur": 1.68
+  },
+  {
+   "src": "rushes/marcello/20260109_215127.mp4",
+   "in": 1.0,
+   "at": 52.789,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_215019.mp4",
+   "in": 4.3,
+   "at": 53.989,
+   "dur": 1.4
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 32.482,
+   "at": 55.389,
+   "dur": 0.618
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 35.24,
+   "at": 56.007,
+   "dur": 3.66
+  },
+  {
+   "src": "rushes/marcello/20260109_215156.mp4",
+   "in": 0.3,
+   "at": 59.667,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 41.08,
+   "at": 60.867,
+   "dur": 1.44
+  },
+  {
+   "src": "rushes/marcello/20260109_215139.mp4",
+   "in": 3.5,
+   "at": 62.307,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_225637.mp4",
+   "in": 43.72,
+   "at": 63.507,
+   "dur": 1.003
+  },
+  {
+   "src": "rushes/marcello/20260109_225808.mp4",
+   "in": 1.05,
+   "at": 64.51,
+   "dur": 2.27
+  },
+  {
+   "src": "rushes/marcello/20260109_222812.mp4",
+   "in": 4.4,
+   "at": 66.78,
+   "dur": 1.4
+  },
+  {
+   "src": "rushes/marcello/20260109_222649.mp4",
+   "in": 0.5,
+   "at": 68.18,
+   "dur": 1.1
+  },
+  {
+   "src": "rushes/marcello/20260109_222702.mp4",
+   "in": 2.9,
+   "at": 69.28,
+   "dur": 0.411
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 6.05,
+   "at": 69.691,
+   "dur": 0.6
+  },
+  {
+   "src": "rushes/marcello/20260109_223029.mp4",
+   "in": 2.0,
+   "at": 70.291,
+   "dur": 1.3
+  },
+  {
+   "src": "rushes/marcello/20260109_223343.mp4",
+   "in": 5.6,
+   "at": 71.591,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 9.15,
+   "at": 72.791,
+   "dur": 1.037
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 13.8,
+   "at": 73.828,
+   "dur": 1.98
+  },
+  {
+   "src": "rushes/marcello/20260109_222649.mp4",
+   "in": 4.5,
+   "at": 75.808,
+   "dur": 1.349
+  },
+  {
+   "src": "rushes/marcello/20260109_225552.mp4",
+   "in": 2.0,
+   "at": 77.157,
+   "dur": 1.4
+  },
+  {
+   "src": "rushes/marcello/20260109_222745.mp4",
+   "in": 0.3,
+   "at": 78.557,
+   "dur": 3.3
+  }
+ ],
+ "subs": [
+  {
+   "words": [
+    "Les",
+    "meilleures",
+    "pizzas"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 0.0,
+   "end": 0.895
+  },
+  {
+   "words": [
+    "de",
+    "Toulouse"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 0.895,
+   "end": 1.555
+  },
+  {
+   "words": [
+    "se",
+    "trouvent"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 1.555,
+   "end": 2.015
+  },
+  {
+   "words": [
+    "à",
+    "Toulouse"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "🍕",
+   "at": 2.015,
+   "end": 2.638
+  },
+  {
+   "words": [
+    "Je",
+    "suis",
+    "ouvert"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 2.638,
+   "end": 3.317
+  },
+  {
+   "words": [
+    "au",
+    "débat"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 3.317,
+   "end": 3.724
+  },
+  {
+   "words": [
+    "mais",
+    "mon",
+    "cœur"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 3.724,
+   "end": 4.4
+  },
+  {
+   "words": [
+    "reste",
+    "fermé"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 4.4,
+   "end": 5.036
+  },
+  {
+   "words": [
+    "On",
+    "se",
+    "retrouve"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 5.036,
+   "end": 5.601
+  },
+  {
+   "words": [
+    "chez",
+    "Marcello"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 5.601,
+   "end": 6.515
+  },
+  {
+   "words": [
+    "où",
+    "les",
+    "cuisines"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 6.515,
+   "end": 7.188
+  },
+  {
+   "words": [
+    "sont",
+    "tenues"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 7.188,
+   "end": 7.548
+  },
+  {
+   "words": [
+    "par",
+    "des",
+    "Italiens"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 7.548,
+   "end": 8.285
+  },
+  {
+   "words": [
+    "qui",
+    "façonnent"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 8.285,
+   "end": 8.743
+  },
+  {
+   "words": [
+    "les",
+    "pizzas"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 8.743,
+   "end": 9.183
+  },
+  {
+   "words": [
+    "de",
+    "manière",
+    "traditionnelle"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 9.183,
+   "end": 10.223
+  },
+  {
+   "words": [
+    "Les",
+    "cuisines"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 10.223,
+   "end": 10.902
+  },
+  {
+   "words": [
+    "sont",
+    "ouvertes"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 10.902,
+   "end": 11.466
+  },
+  {
+   "words": [
+    "ce",
+    "qui",
+    "permet"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 11.466,
+   "end": 12.069
+  },
+  {
+   "words": [
+    "de",
+    "voir",
+    "les",
+    "chefs"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 12.069,
+   "end": 12.681
+  },
+  {
+   "words": [
+    "en",
+    "action"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 12.681,
+   "end": 13.154
+  },
+  {
+   "words": [
+    "Salut,",
+    "moi",
+    "c'est",
+    "Harry"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 13.154,
+   "end": 14.043
+  },
+  {
+   "words": [
+    "et",
+    "je",
+    "vous",
+    "partage"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 14.043,
+   "end": 14.778
+  },
+  {
+   "words": [
+    "mes",
+    "bonnes",
+    "adresses"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 14.778,
+   "end": 15.499
+  },
+  {
+   "words": [
+    "Ils",
+    "ont",
+    "d'ailleurs"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 15.499,
+   "end": 16.109
+  },
+  {
+   "words": [
+    "trois",
+    "restaurants"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 16.109,
+   "end": 16.847
+  },
+  {
+   "words": [
+    "à",
+    "Saint-Georges"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 16.847,
+   "end": 17.529
+  },
+  {
+   "words": [
+    "à",
+    "Saint-Pierre"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 17.529,
+   "end": 17.977
+  },
+  {
+   "words": [
+    "et",
+    "à",
+    "Saint-Aubin"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 17.977,
+   "end": 18.633
+  },
+  {
+   "words": [
+    "impossible",
+    "de",
+    "les",
+    "louper"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 18.633,
+   "end": 19.478
+  },
+  {
+   "words": [
+    "Les",
+    "pizzas",
+    "sont"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 19.478,
+   "end": 20.169
+  },
+  {
+   "words": [
+    "à",
+    "partir",
+    "de",
+    "12€"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 20.169,
+   "end": 21.382
+  },
+  {
+   "words": [
+    "Cette",
+    "semaine"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 21.382,
+   "end": 21.947
+  },
+  {
+   "words": [
+    "on",
+    "accueille"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 21.947,
+   "end": 22.394
+  },
+  {
+   "words": [
+    "une",
+    "véritable",
+    "Italienne"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 22.394,
+   "end": 23.554
+  },
+  {
+   "words": [
+    "qui",
+    "vient"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 23.554,
+   "end": 23.974
+  },
+  {
+   "words": [
+    "donner",
+    "son",
+    "avis"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 23.974,
+   "end": 24.646
+  },
+  {
+   "words": [
+    "mais",
+    "d'abord",
+    "l'entrée"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 24.646,
+   "end": 25.857
+  },
+  {
+   "words": [
+    "On",
+    "a",
+    "pris",
+    "également"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 25.857,
+   "end": 27.39
+  },
+  {
+   "words": [
+    "burrata",
+    "et",
+    "polpette"
+   ],
+   "hl": [
+    0,
+    2
+   ],
+   "emoji": "",
+   "at": 27.39,
+   "end": 28.901
+  },
+  {
+   "words": [
+    "Et",
+    "la",
+    "burrata"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 28.901,
+   "end": 30.281
+  },
+  {
+   "words": [
+    "genre,",
+    "c'était"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 30.281,
+   "end": 30.701
+  },
+  {
+   "words": [
+    "incroyable"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 30.701,
+   "end": 31.321
+  },
+  {
+   "words": [
+    "Il",
+    "y",
+    "avait",
+    "aussi"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 31.321,
+   "end": 32.331
+  },
+  {
+   "words": [
+    "des",
+    "olives,",
+    "du",
+    "parmesan"
+   ],
+   "hl": [
+    1,
+    3
+   ],
+   "emoji": "",
+   "at": 32.331,
+   "end": 33.251
+  },
+  {
+   "words": [
+    "c'était",
+    "incroyable"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 33.251,
+   "end": 34.351
+  },
+  {
+   "words": [
+    "incroyable,",
+    "incroyable",
+    "!"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 34.351,
+   "end": 34.912
+  },
+  {
+   "words": [
+    "10",
+    "!"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 34.912,
+   "end": 35.806
+  },
+  {
+   "words": [
+    "C'était",
+    "trop",
+    "bon",
+    "!"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 35.806,
+   "end": 36.48
+  },
+  {
+   "words": [
+    "On",
+    "enchaîne"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 36.48,
+   "end": 36.942
+  },
+  {
+   "words": [
+    "avec",
+    "Guigui"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 36.942,
+   "end": 37.592
+  },
+  {
+   "words": [
+    "Moi,",
+    "j'ai",
+    "pris"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 37.592,
+   "end": 38.072
+  },
+  {
+   "words": [
+    "une",
+    "pizza",
+    "tartufata"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 38.072,
+   "end": 39.371
+  },
+  {
+   "words": [
+    "Avec",
+    "de",
+    "vraies"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 39.371,
+   "end": 40.301
+  },
+  {
+   "words": [
+    "belles",
+    "truffes"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 40.301,
+   "end": 41.711
+  },
+  {
+   "words": [
+    "une",
+    "grosse",
+    "burrata"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 41.711,
+   "end": 42.251
+  },
+  {
+   "words": [
+    "comme",
+    "on",
+    "aime"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 42.251,
+   "end": 42.991
+  },
+  {
+   "words": [
+    "Trop",
+    "bon"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 42.991,
+   "end": 43.471
+  },
+  {
+   "words": [
+    "franchement",
+    "incroyable"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 43.471,
+   "end": 44.111
+  },
+  {
+   "words": [
+    "Pour",
+    "moi",
+    "ce",
+    "serait"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 44.111,
+   "end": 44.611
+  },
+  {
+   "words": [
+    "un",
+    "9"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 44.611,
+   "end": 45.251
+  },
+  {
+   "words": [
+    "rien",
+    "n'est",
+    "parfait"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 45.251,
+   "end": 45.691
+  },
+  {
+   "words": [
+    "mais",
+    "franchement"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 45.691,
+   "end": 46.151
+  },
+  {
+   "words": [
+    "très",
+    "très",
+    "bon"
+   ],
+   "hl": [
+    0,
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 46.151,
+   "end": 46.631
+  },
+  {
+   "words": [
+    "C'est",
+    "finalement"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 46.631,
+   "end": 47.231
+  },
+  {
+   "words": [
+    "au",
+    "tour",
+    "de",
+    "Meg"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 47.231,
+   "end": 48.431
+  },
+  {
+   "words": [
+    "l'Italienne"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 48.431,
+   "end": 48.931
+  },
+  {
+   "words": [
+    "pour",
+    "les",
+    "pizzas"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 48.931,
+   "end": 49.409
+  },
+  {
+   "words": [
+    "Ciao",
+    "Meg",
+    "!"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 49.409,
+   "end": 50.649
+  },
+  {
+   "words": [
+    "Ciao",
+    "!"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 50.649,
+   "end": 51.109
+  },
+  {
+   "words": [
+    "Les",
+    "pizzas",
+    "sont"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 51.109,
+   "end": 51.699
+  },
+  {
+   "words": [
+    "de",
+    "vraies",
+    "pizzas"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 51.699,
+   "end": 52.889
+  },
+  {
+   "words": [
+    "napolitaines"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 52.889,
+   "end": 53.547
+  },
+  {
+   "words": [
+    "énormes,",
+    "géantes"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 53.547,
+   "end": 54.347
+  },
+  {
+   "words": [
+    "qui",
+    "dépassent"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 54.347,
+   "end": 54.967
+  },
+  {
+   "words": [
+    "de",
+    "l'assiette"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 54.967,
+   "end": 56.007
+  },
+  {
+   "words": [
+    "Dans",
+    "la",
+    "Marcello"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 56.007,
+   "end": 56.687
+  },
+  {
+   "words": [
+    "on",
+    "retrouve"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 56.687,
+   "end": 57.087
+  },
+  {
+   "words": [
+    "un",
+    "petit",
+    "peu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 57.087,
+   "end": 58.007
+  },
+  {
+   "words": [
+    "tous",
+    "les",
+    "goûts"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 58.007,
+   "end": 58.567
+  },
+  {
+   "words": [
+    "qui",
+    "viennent",
+    "d'Italie"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 58.567,
+   "end": 59.487
+  },
+  {
+   "words": [
+    "donc",
+    "la",
+    "burrata"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 59.487,
+   "end": 60.487
+  },
+  {
+   "words": [
+    "les",
+    "pistaches"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 60.487,
+   "end": 62.807
+  },
+  {
+   "words": [
+    "vraiment",
+    "c'était"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 62.807,
+   "end": 63.607
+  },
+  {
+   "words": [
+    "très",
+    "gourmand"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 63.607,
+   "end": 64.267
+  },
+  {
+   "words": [
+    "très",
+    "bon"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 64.267,
+   "end": 64.51
+  },
+  {
+   "words": [
+    "Du",
+    "coup"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 64.587,
+   "end": 65.04
+  },
+  {
+   "words": [
+    "je",
+    "mettrais",
+    "un",
+    "10"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 65.04,
+   "end": 66.78
+  },
+  {
+   "words": [
+    "Et",
+    "enfin",
+    "Antho"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 66.78,
+   "end": 67.824
+  },
+  {
+   "words": [
+    "mon",
+    "ami",
+    "d'enfance"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 67.824,
+   "end": 68.444
+  },
+  {
+   "words": [
+    "depuis",
+    "un",
+    "an"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 68.444,
+   "end": 69.148
+  },
+  {
+   "words": [
+    "pour",
+    "les",
+    "desserts"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 69.148,
+   "end": 69.691
+  },
+  {
+   "words": [
+    "La",
+    "panna",
+    "cotta"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 69.691,
+   "end": 70.441
+  },
+  {
+   "words": [
+    "a",
+    "été",
+    "vraiment"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 70.441,
+   "end": 71.121
+  },
+  {
+   "words": [
+    "onctueuse"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 71.121,
+   "end": 71.921
+  },
+  {
+   "words": [
+    "et",
+    "consistante"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 71.921,
+   "end": 72.901
+  },
+  {
+   "words": [
+    "franchement",
+    "un",
+    "délice"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 72.901,
+   "end": 73.828
+  },
+  {
+   "words": [
+    "Et",
+    "surtout"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 73.828,
+   "end": 74.148
+  },
+  {
+   "words": [
+    "ce",
+    "que",
+    "j'ai",
+    "aimé"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 74.148,
+   "end": 74.761
+  },
+  {
+   "words": [
+    "c'est",
+    "qu'on",
+    "avait"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 74.761,
+   "end": 75.468
+  },
+  {
+   "words": [
+    "de",
+    "bonnes",
+    "quantités"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 75.468,
+   "end": 76.648
+  },
+  {
+   "words": [
+    "pour",
+    "les",
+    "gourmands"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 76.648,
+   "end": 77.157
+  },
+  {
+   "words": [
+    "Je",
+    "mettrais",
+    "un",
+    "9"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 77.157,
+   "end": 78.557
+  }
+ ],
+ "overlays": [
+  {
+   "type": "title",
+   "at": 5.681,
+   "dur": 1.2
+  },
+  {
+   "type": "nickname",
+   "at": 14.043,
+   "dur": 1.456,
+   "lines": [
+    "L'influenceur",
+    "en carton"
+   ],
+   "in": "slide",
+   "out": "slide"
+  },
+  {
+   "type": "maps",
+   "at": 15.749,
+   "dur": 2.6
+  },
+  {
+   "type": "nickname",
+   "at": 25.857,
+   "dur": 2.7,
+   "lines": [
+    "Beg",
+    "La reine des entrées"
+   ],
+   "in": "rise",
+   "out": "rise"
+  },
+  {
+   "type": "nickname",
+   "at": 37.302,
+   "dur": 2.7,
+   "lines": [
+    "Le grand",
+    "Guigui"
+   ],
+   "in": "type",
+   "out": "blur"
+  },
+  {
+   "type": "nickname",
+   "at": 47.931,
+   "dur": 2.7,
+   "lines": [
+    "La vraie",
+    "Italienne"
+   ],
+   "in": "wipe",
+   "out": "drop"
+  },
+  {
+   "type": "nickname",
+   "at": 67.64,
+   "dur": 2.7,
+   "lines": [
+    "L'ami d'enfance",
+    "(depuis 1 an)"
+   ],
+   "in": "zoom",
+   "out": "shrink"
+  },
+  {
+   "type": "result",
+   "at": 78.557,
+   "dur": 3.3,
+   "notes": [
+    [
+     "Beg",
+     "10"
+    ],
+    [
+     "Guigui",
+     "9"
+    ],
+    [
+     "Meg",
+     "10"
+    ],
+    [
+     "Antho",
+     "9"
+    ]
+   ],
+   "avg": "9,5"
+  }
+ ],
+ "sfx": [
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 5.681,
+   "vol": 2.0
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 15.749,
+   "vol": 2.0
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "at": 78.907,
+   "vol": 0.35
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "at": 79.357,
+   "vol": 0.35
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "at": 79.807,
+   "vol": 0.35
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "at": 80.257,
+   "vol": 0.35
+  },
+  {
+   "src": "sfx/bell.mp3",
+   "at": 80.807,
+   "vol": 0.45
+  },
+  {
+   "src": "sfx/paper.mp3",
+   "at": 78.557,
+   "vol": 0.5
+  }
+ ],
+ "mix": "mix/marcello.wav"
+}
