@@ -40,6 +40,8 @@ Le chemin de la vidéo rendue (1080p) et de son `edl.json`. N'ouvre pas `build_e
    - Un passage où on décroche : plan trop long, visage figé, info inutile.
    - Un plan « flash » illisible.
    - Un blanc ou une coupure audio.
+   - **Un arrêt sur image** (section « Arrêts sur image » de `controles.md`, détecté par freezedetect) = toujours **Bloquant** (Harry, Halloween V5 : 2 images figées non vues).
+   - Un rush qui finit quand Harry **sort de son personnage** (il arrête de jouer, se met à parler normalement) = Bloquant.
 5. **DA d'Harry.**
    - Sous-titres : 4 mots max sur 1 ligne, jaune #F0FF00 sur les mots clés, coupés selon le sens.
    - Surnoms : contour noir, animation différente à chaque fois, démarrant à l'annonce.

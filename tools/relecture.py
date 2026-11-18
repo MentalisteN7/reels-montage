@@ -53,6 +53,14 @@ def silences(video):
     du = [float(x) for x in re.findall(r'silence_duration: ([\d.]+)', log)]
     return list(zip(st, du))
 
+def freezes(video):
+    """Arrêts sur image (plan dont le rush est trop court -> dernière image figée) : freezedetect ffmpeg."""
+    log = subprocess.run(['ffmpeg', '-hide_banner', '-i', video, '-vf', 'scale=270:480,freezedetect=n=0.003:d=0.4', '-an', '-f', 'null', '-'],
+                         capture_output=True, text=True).stderr
+    st = [float(x) for x in re.findall(r'freeze_start: ([\d.]+)', log)]
+    du = [float(x) for x in re.findall(r'freeze_duration: ([\d.]+)', log)]
+    return list(zip(st, du)) + [(a, None) for a in st[len(du):]]
+
 if __name__ == '__main__':
     video, edl_path, out = sys.argv[1:4]
     os.makedirs(out, exist_ok=True)
@@ -88,6 +96,11 @@ if __name__ == '__main__':
     # 3) blancs audio
     sil = [(a, d) for a, d in silences(video) if a < e['duration'] - 0.5]
     rep += ['', '## Blancs audio (> 0,3 s sous -40 dB)'] + ([f'- {a:.2f} s : {d:.2f} s' for a, d in sil] or ['- aucun'])
+
+    # 3bis) arrêts sur image (BLOQUANT : Harry les voit tout de suite)
+    fr = freezes(video)
+    rep += ['', '## Arrêts sur image (> 0,4 s figé) — BLOQUANT si présent'] + (
+        [f'- ⛔ {a:.2f} s : figé {d:.2f} s' if d else f"- ⛔ {a:.2f} s : figé jusqu'à la fin" for a, d in fr] or ['- aucun'])
 
     # 4) planches : un plan = vignette + sous-titre + entendu
     font = ImageFont.truetype('C:/Windows/Fonts/arial.ttf', 12)

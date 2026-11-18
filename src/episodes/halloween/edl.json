@@ -1,0 +1,1381 @@
+{
+ "fps": 30,
+ "duration": 47.907,
+ "audio": [
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 6.228,
+   "out": 8.472,
+   "at": 0.0,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 8.849,
+   "out": 10.783,
+   "at": 2.244,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 11.824,
+   "out": 13.831,
+   "at": 4.178,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 14.703,
+   "out": 16.31,
+   "at": 6.185,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo2.wav",
+   "in": 5.134,
+   "out": 5.426,
+   "at": 7.792,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo2.wav",
+   "in": 5.525,
+   "out": 6.305,
+   "at": 8.084,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo2.wav",
+   "in": 6.488,
+   "out": 7.408,
+   "at": 8.864,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 21.005,
+   "out": 22.806,
+   "at": 9.784,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 22.873,
+   "out": 23.346,
+   "at": 11.585,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 33.438,
+   "out": 35.423,
+   "at": 12.058,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 36.364,
+   "out": 38.446,
+   "at": 14.043,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 38.597,
+   "out": 39.629,
+   "at": 16.125,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 39.734,
+   "out": 41.411,
+   "at": 17.157,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 44.336,
+   "out": 46.22,
+   "at": 18.834,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 46.651,
+   "out": 47.347,
+   "at": 20.718,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 47.414,
+   "out": 48.712,
+   "at": 21.414,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 48.785,
+   "out": 49.388,
+   "at": 22.712,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 8.3,
+   "out": 8.5,
+   "at": 23.315,
+   "vol": 0.45
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 8.5,
+   "out": 9.5,
+   "at": 23.515,
+   "vol": 0.65
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 51.059,
+   "out": 51.623,
+   "at": 24.515,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 52.488,
+   "out": 54.612,
+   "at": 25.079,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 54.699,
+   "out": 55.244,
+   "at": 27.203,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 56.677,
+   "out": 57.414,
+   "at": 27.748,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 57.9,
+   "out": 59.415,
+   "at": 28.485,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 59.785,
+   "out": 60.215,
+   "at": 30.0,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 60.281,
+   "out": 61.068,
+   "at": 30.43,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 62.836,
+   "out": 65.346,
+   "at": 31.217,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 66.776,
+   "out": 67.606,
+   "at": 33.727,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 67.73,
+   "out": 68.686,
+   "at": 34.557,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 69.007,
+   "out": 70.01,
+   "at": 35.513,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 70.485,
+   "out": 71.256,
+   "at": 36.516,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 72.282,
+   "out": 73.416,
+   "at": 37.287,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 74.148,
+   "out": 76.297,
+   "at": 38.421,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 77.361,
+   "out": 79.761,
+   "at": 40.57,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 80.78,
+   "out": 82.52,
+   "at": 42.97,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 83.54,
+   "out": 84.222,
+   "at": 44.71,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 84.48,
+   "out": 86.513,
+   "at": 45.392,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/halloween_vo.wav",
+   "in": 86.582,
+   "out": 87.064,
+   "at": 47.425,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 5.98,
+   "out": 8.298,
+   "at": 20.997,
+   "vol": 0.35
+  }
+ ],
+ "video": [
+  {
+   "src": "rushes/halloween/20261030_223654.mp4",
+   "in": 0.1,
+   "at": 0.0,
+   "dur": 0.75
+  },
+  {
+   "src": "rushes/halloween/20261030_191832.mp4",
+   "in": 0.3,
+   "at": 0.75,
+   "dur": 0.75
+  },
+  {
+   "src": "rushes/halloween/20261030_214334.mp4",
+   "in": 26.8,
+   "at": 1.5,
+   "dur": 0.744
+  },
+  {
+   "src": "rushes/halloween/20261030_191824.mp4",
+   "in": 0.3,
+   "at": 2.244,
+   "dur": 1.281
+  },
+  {
+   "src": "rushes/halloween/20261030_191607.mp4",
+   "in": 0.6,
+   "at": 3.525,
+   "dur": 0.653
+  },
+  {
+   "src": "rushes/halloween/20261030_195604.mp4",
+   "in": 0.3,
+   "at": 4.178,
+   "dur": 1.386
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 11.0,
+   "at": 5.564,
+   "dur": 0.621
+  },
+  {
+   "src": "rushes/halloween/20261030_190930.mp4",
+   "in": 2.6,
+   "at": 6.185,
+   "dur": 0.967
+  },
+  {
+   "src": "rushes/halloween/20261030_191501.mp4",
+   "in": 0.3,
+   "at": 7.152,
+   "dur": 0.64
+  },
+  {
+   "src": "rushes/halloween/20261030_223640.mp4",
+   "in": 2.2,
+   "at": 7.792,
+   "dur": 1.992
+  },
+  {
+   "src": "rushes/halloween/20261030_221207.mp4",
+   "in": 8.9,
+   "at": 9.784,
+   "dur": 0.945
+  },
+  {
+   "src": "rushes/halloween/20261030_215136.mp4",
+   "in": 4.6,
+   "at": 10.729,
+   "dur": 1.329
+  },
+  {
+   "src": "rushes/halloween/20261030_190920.mp4",
+   "in": 1.75,
+   "at": 12.058,
+   "dur": 1.985
+  },
+  {
+   "src": "rushes/halloween/20261030_190938.mp4",
+   "in": 1.0,
+   "at": 14.043,
+   "dur": 1.526
+  },
+  {
+   "src": "rushes/halloween/20261030_191537.mp4",
+   "in": 2.0,
+   "at": 15.569,
+   "dur": 0.809
+  },
+  {
+   "src": "rushes/halloween/20261030_191607.mp4",
+   "in": 4.6,
+   "at": 16.378,
+   "dur": 0.815
+  },
+  {
+   "src": "rushes/halloween/20261030_191851.mp4",
+   "in": 2.4,
+   "at": 17.193,
+   "dur": 0.43
+  },
+  {
+   "src": "rushes/halloween/20261030_191804.mp4",
+   "in": 5.0,
+   "at": 17.623,
+   "dur": 0.63
+  },
+  {
+   "src": "rushes/halloween/20261030_191832.mp4",
+   "in": 2.6,
+   "at": 18.253,
+   "dur": 0.581
+  },
+  {
+   "src": "rushes/halloween/20261030_201129.mp4",
+   "in": 0.2,
+   "at": 18.834,
+   "dur": 1.254
+  },
+  {
+   "src": "rushes/halloween/20261030_195604.mp4",
+   "in": 1.0,
+   "at": 20.088,
+   "dur": 0.909
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 5.98,
+   "at": 20.997,
+   "dur": 2.318
+  },
+  {
+   "src": "rushes/halloween/20261030_203500.mp4",
+   "in": 8.3,
+   "at": 23.315,
+   "dur": 1.2
+  },
+  {
+   "src": "rushes/halloween/20261030_191519.mp4",
+   "in": 0.3,
+   "at": 24.515,
+   "dur": 1.206
+  },
+  {
+   "src": "rushes/halloween/20261030_191824.mp4",
+   "in": 1.1,
+   "at": 25.721,
+   "dur": 2.027
+  },
+  {
+   "src": "rushes/halloween/20261030_191537.mp4",
+   "in": 6.4,
+   "at": 27.748,
+   "dur": 1.607
+  },
+  {
+   "src": "rushes/halloween/20261030_191804.mp4",
+   "in": 10.4,
+   "at": 29.355,
+   "dur": 0.85
+  },
+  {
+   "src": "rushes/halloween/20261030_191607.mp4",
+   "in": 1.4,
+   "at": 30.205,
+   "dur": 1.012
+  },
+  {
+   "src": "rushes/halloween/20261030_221117.mp4",
+   "in": 0.5,
+   "at": 31.217,
+   "dur": 0.534
+  },
+  {
+   "src": "rushes/halloween/20261030_223654.mp4",
+   "in": 5.75,
+   "at": 31.751,
+   "dur": 1.976
+  },
+  {
+   "src": "rushes/halloween/20261030_212150.mp4",
+   "in": 0.4,
+   "at": 33.727,
+   "dur": 1.09
+  },
+  {
+   "src": "rushes/halloween/20261030_214250.mp4",
+   "in": 6.8,
+   "at": 34.817,
+   "dur": 1.219
+  },
+  {
+   "src": "rushes/halloween/20261030_212219.mp4",
+   "in": 29.6,
+   "at": 36.036,
+   "dur": 0.745
+  },
+  {
+   "src": "rushes/halloween/20261030_212219.mp4",
+   "in": 45.8,
+   "at": 36.781,
+   "dur": 2.252
+  },
+  {
+   "src": "rushes/halloween/20261030_214334.mp4",
+   "in": 3.85,
+   "at": 39.033,
+   "dur": 1.537
+  },
+  {
+   "src": "rushes/halloween/20261030_215136.mp4",
+   "in": 39.4,
+   "at": 40.57,
+   "dur": 1.009
+  },
+  {
+   "src": "rushes/halloween/20261030_215114.mp4",
+   "in": 2.6,
+   "at": 41.579,
+   "dur": 0.6
+  },
+  {
+   "src": "rushes/halloween/20261030_215136.mp4",
+   "in": 41.4,
+   "at": 42.179,
+   "dur": 1.181
+  },
+  {
+   "src": "rushes/halloween/20261030_221117.mp4",
+   "in": 7.4,
+   "at": 43.36,
+   "dur": 1.35
+  },
+  {
+   "src": "rushes/halloween/20261030_223513.mp4",
+   "in": 0.3,
+   "at": 44.71,
+   "dur": 1.572
+  },
+  {
+   "src": "rushes/halloween/20261030_191832.mp4",
+   "in": 4.4,
+   "at": 46.282,
+   "dur": 1.625
+  }
+ ],
+ "subs": [
+  {
+   "words": [
+    "Cette",
+    "année"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 0.0,
+   "end": 0.532
+  },
+  {
+   "words": [
+    "j'ai",
+    "vécu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 0.532,
+   "end": 1.032
+  },
+  {
+   "words": [
+    "un",
+    "Halloween"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 1.032,
+   "end": 1.432
+  },
+  {
+   "words": [
+    "pas",
+    "comme"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 1.432,
+   "end": 1.892
+  },
+  {
+   "words": [
+    "les",
+    "autres"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "🎃",
+   "at": 1.892,
+   "end": 2.244
+  },
+  {
+   "words": [
+    "Buffet",
+    "à",
+    "volonté"
+   ],
+   "hl": [
+    0,
+    2
+   ],
+   "emoji": "",
+   "at": 2.244,
+   "end": 3.075
+  },
+  {
+   "words": [
+    "avec",
+    "des",
+    "plats"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 3.075,
+   "end": 3.575
+  },
+  {
+   "words": [
+    "horrifiants"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "💀",
+   "at": 3.575,
+   "end": 4.178
+  },
+  {
+   "words": [
+    "un",
+    "escape",
+    "game"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 4.178,
+   "end": 5.054
+  },
+  {
+   "words": [
+    "digne",
+    "d'un"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 5.054,
+   "end": 5.614
+  },
+  {
+   "words": [
+    "film",
+    "d'horreur"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 5.614,
+   "end": 6.185
+  },
+  {
+   "words": [
+    "et",
+    "un",
+    "lieu"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 6.185,
+   "end": 6.722
+  },
+  {
+   "words": [
+    "totalement",
+    "atypique"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 6.722,
+   "end": 7.792
+  },
+  {
+   "words": [
+    "Bref"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 7.792,
+   "end": 8.159
+  },
+  {
+   "words": [
+    "moi",
+    "c'est",
+    "Harry"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 8.159,
+   "end": 8.996
+  },
+  {
+   "words": [
+    "le",
+    "vampire",
+    "en",
+    "carton"
+   ],
+   "hl": [
+    1,
+    3
+   ],
+   "emoji": "",
+   "at": 8.996,
+   "end": 9.784
+  },
+  {
+   "words": [
+    "et",
+    "je",
+    "vous",
+    "trouve"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 9.784,
+   "end": 10.319
+  },
+  {
+   "words": [
+    "les",
+    "bonnes",
+    "activités"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 10.319,
+   "end": 11.119
+  },
+  {
+   "words": [
+    "à",
+    "faire",
+    "à",
+    "Toulouse"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 11.119,
+   "end": 12.058
+  },
+  {
+   "words": [
+    "On",
+    "se",
+    "retrouve"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 12.058,
+   "end": 12.6
+  },
+  {
+   "words": [
+    "à",
+    "l'hôtel",
+    "Mercure"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 12.6,
+   "end": 13.36
+  },
+  {
+   "words": [
+    "de",
+    "Compans"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 13.36,
+   "end": 14.043
+  },
+  {
+   "words": [
+    "Ils",
+    "ont",
+    "métamorphosé"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 14.043,
+   "end": 14.859
+  },
+  {
+   "words": [
+    "l'hôtel"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 14.859,
+   "end": 15.339
+  },
+  {
+   "words": [
+    "pour",
+    "Halloween"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 15.339,
+   "end": 16.328
+  },
+  {
+   "words": [
+    "et",
+    "franchement"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 16.328,
+   "end": 16.888
+  },
+  {
+   "words": [
+    "c'est",
+    "impressionnant"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 16.888,
+   "end": 17.673
+  },
+  {
+   "words": [
+    "l'effort",
+    "mis"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 17.673,
+   "end": 18.303
+  },
+  {
+   "words": [
+    "derrière",
+    "tout",
+    "ça"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 18.303,
+   "end": 18.834
+  },
+  {
+   "words": [
+    "La",
+    "soirée",
+    "a",
+    "démarré"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 18.834,
+   "end": 19.738
+  },
+  {
+   "words": [
+    "avec",
+    "un",
+    "escape",
+    "game"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 19.738,
+   "end": 20.747
+  },
+  {
+   "words": [
+    "on",
+    "a",
+    "rencontré"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 20.747,
+   "end": 21.414
+  },
+  {
+   "words": [
+    "plein",
+    "de",
+    "personnes"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 21.414,
+   "end": 22.33
+  },
+  {
+   "words": [
+    "c'était",
+    "trop",
+    "chouette"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 22.33,
+   "end": 23.315
+  },
+  {
+   "words": [
+    "Ensuite"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 24.515,
+   "end": 25.191
+  },
+  {
+   "words": [
+    "on",
+    "est",
+    "passé"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 25.191,
+   "end": 25.551
+  },
+  {
+   "words": [
+    "à",
+    "la",
+    "partie"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 25.551,
+   "end": 25.951
+  },
+  {
+   "words": [
+    "qui",
+    "m'intéresse"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 25.951,
+   "end": 26.591
+  },
+  {
+   "words": [
+    "le",
+    "plus"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 26.591,
+   "end": 27.264
+  },
+  {
+   "words": [
+    "le",
+    "buffet"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 27.264,
+   "end": 27.748
+  },
+  {
+   "words": [
+    "Je",
+    "réitère"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 27.748,
+   "end": 28.605
+  },
+  {
+   "words": [
+    "mais",
+    "regardez"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 28.605,
+   "end": 29.145
+  },
+  {
+   "words": [
+    "ces",
+    "plats",
+    "d'Halloween"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 29.145,
+   "end": 30.195
+  },
+  {
+   "words": [
+    "ça",
+    "donne",
+    "vraiment"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 30.195,
+   "end": 30.869
+  },
+  {
+   "words": [
+    "pas",
+    "envie"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 30.869,
+   "end": 31.217
+  },
+  {
+   "words": [
+    "Bravo",
+    "au",
+    "chef"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 31.217,
+   "end": 32.081
+  },
+  {
+   "words": [
+    "car",
+    "malgré",
+    "tout"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 32.081,
+   "end": 32.831
+  },
+  {
+   "words": [
+    "c'était",
+    "vraiment"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 32.831,
+   "end": 33.381
+  },
+  {
+   "words": [
+    "excellent"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 33.381,
+   "end": 33.727
+  },
+  {
+   "words": [
+    "J'ai",
+    "dû",
+    "manger"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 33.727,
+   "end": 34.557
+  },
+  {
+   "words": [
+    "5",
+    "gyozas",
+    "verts"
+   ],
+   "hl": [
+    0,
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 34.557,
+   "end": 35.546
+  },
+  {
+   "words": [
+    "ils",
+    "étaient"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 35.546,
+   "end": 36.086
+  },
+  {
+   "words": [
+    "trop",
+    "bons"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 36.086,
+   "end": 36.651
+  },
+  {
+   "words": [
+    "10",
+    "sushis"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 36.651,
+   "end": 37.385
+  },
+  {
+   "words": [
+    "juste",
+    "parce",
+    "que"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 37.385,
+   "end": 37.975
+  },
+  {
+   "words": [
+    "j'adore",
+    "ça"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 37.975,
+   "end": 38.453
+  },
+  {
+   "words": [
+    "et",
+    "les",
+    "frites"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 38.453,
+   "end": 38.873
+  },
+  {
+   "words": [
+    "patates",
+    "douces"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 38.873,
+   "end": 39.433
+  },
+  {
+   "words": [
+    "étaient",
+    "succulentes"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 39.433,
+   "end": 40.57
+  },
+  {
+   "words": [
+    "J'ai",
+    "été",
+    "moins",
+    "fan"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 40.57,
+   "end": 41.329
+  },
+  {
+   "words": [
+    "de",
+    "la",
+    "mozza"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 41.329,
+   "end": 41.869
+  },
+  {
+   "words": [
+    "avec",
+    "la",
+    "sauce",
+    "Halloween"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 41.869,
+   "end": 43.01
+  },
+  {
+   "words": [
+    "mais",
+    "la"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 43.01,
+   "end": 43.41
+  },
+  {
+   "words": [
+    "côte",
+    "de",
+    "bœuf"
+   ],
+   "hl": [
+    0,
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 43.41,
+   "end": 43.83
+  },
+  {
+   "words": [
+    "était",
+    "magnifique"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 43.83,
+   "end": 44.71
+  },
+  {
+   "words": [
+    "Pour",
+    "les",
+    "desserts"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 44.71,
+   "end": 45.392
+  },
+  {
+   "words": [
+    "j'avais",
+    "plus",
+    "faim"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 45.392,
+   "end": 46.332
+  },
+  {
+   "words": [
+    "mais",
+    "ils",
+    "étaient"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 46.332,
+   "end": 46.952
+  },
+  {
+   "words": [
+    "visuellement"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 46.952,
+   "end": 47.425
+  },
+  {
+   "words": [
+    "horribles"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 47.425,
+   "end": 47.907
+  }
+ ],
+ "overlays": [
+  {
+   "type": "nickname",
+   "at": 8.599,
+   "dur": 1.785,
+   "lines": [
+    "Le vampire",
+    "en carton"
+   ],
+   "in": "slide",
+   "out": "slide"
+  },
+  {
+   "type": "title",
+   "at": 12.81,
+   "dur": 1.3
+  }
+ ],
+ "sfx": [
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 12.81,
+   "vol": 2.0
+  }
+ ],
+ "mix": "mix/halloween.wav"
+}

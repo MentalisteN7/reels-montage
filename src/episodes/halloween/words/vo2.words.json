@@ -1,0 +1,4 @@
+[{"start": 5.17, "end": 7.44, "text": "Bref, moi c'est Harry, le vampire en carton.", "words": [
+ {"w": "Bref,", "s": 5.17, "e": 5.43}, {"w": "moi", "s": 5.6, "e": 5.72}, {"w": "c'est", "s": 5.72, "e": 6.04},
+ {"w": "Harry,", "s": 6.04, "e": 6.3}, {"w": "le", "s": 6.62, "e": 6.74}, {"w": "vampire", "s": 6.74, "e": 6.98},
+ {"w": "en", "s": 6.98, "e": 7.14}, {"w": "carton.", "s": 7.14, "e": 7.44}]}]

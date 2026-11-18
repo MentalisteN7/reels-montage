@@ -186,5 +186,20 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 - ✏️ (v3) Accroche : plans de **durée régulière** (~0,8 s chacun), pas un long puis des courts ; **Harry qui croque la saucisse dès l'accroche** (et dans sa présentation)
 - ✏️ (v3) Musique sous droits (peña baiona…) : ne pas l'intégrer au montage → Harry l'ajoute dans l'app à la publication
 
+### Halloween Mercure Compans (solo, nov. 2026) — corrections d'Harry (V7 validée le 18/11/2026)
+- ✏️ **Vérifier l'orientation de chaque rush** avant de monter : certains sont filmés en paysage ou ont une métadonnée de rotation fausse (image couchée ou écrasée) → les redresser dans le proxy (`transpose`), jamais d'image couchée à l'écran
+- ✏️ **Le surnom d'Harry s'adapte au déguisement / thème** : « *Le vampire en carton* » à Halloween (Harry réenregistre la phrase de présentation ; la nouvelle prise est dans le même dossier VO, ex. `Audio 1_1.wav`)
+- ✏️ **Présentation d'Harry** : un plan où il **fait une grimace / joue la comédie**, puis un plan où il **mange un truc sympa**
+- ✏️ Phrase générale sur le lieu (« ils ont métamorphosé l'hôtel… ») : **ne pas rester sur une seule séquence** → enchaîner vite les plats les plus marquants (ici des plats sanglants), même rythme que le reste
+- ✏️ « C'était vraiment excellent » → montrer **Harry qui mime qu'il se régale**, idéalement jusqu'à son oui de la tête
+- ✏️ Chaque plat cité doit être **le plat exact** (« 10 sushis » = le sushi, « patates douces » = Harry qui mange la patate douce)
+- ✏️ Pour un jugement sur un ensemble (« les desserts étaient visuellement horribles ») → **une vue d'ensemble** (milieu du rush qui balaie le buffet), pas une assiette
+- ✏️ (v5) **Jamais d'arrêt sur image** : un plan ne doit jamais dépasser la fin de son rush (build_edl refuse désormais, et la relecture lance `freezedetect`)
+- ✏️ (v5) Un nouvel enregistrement de VO peut aussi contenir **plusieurs prises** (« Bref moi c'est… » ratée puis la bonne) → même règle, la dernière complète
+- ✏️ (v5) **Écouter le son de chaque rush et en évaluer le potentiel**, même si Harry ne met jamais le son de ses vidéos : un son direct fort (poupée de l'escape game qui s'allume) peut passer sous la VO ou seul ~1 s
+- ✏️ (v5) Plans où Harry joue la comédie : **couper avant qu'il sorte de son personnage** (fin de rush = il reprend une tête normale, ça se voit) → décaler l'entrée plus tôt plutôt que d'aller au bout du rush
+- ✏️ (v5) Quand la VO parle des plats, **montrer au moins une fois Harry en train d'en manger un**
+- ✏️ (v5) **Pas deux fois la même séquence** à quelques secondes d'écart (mains de l'escape game à 0:20 et 0:23) → prendre un autre rush
+
 ## Questions ouvertes
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)
