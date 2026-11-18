@@ -1,0 +1,2270 @@
+{
+ "fps": 30,
+ "duration": 69.254,
+ "audio": [
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 1.685,
+   "out": 3.77,
+   "at": 0.0,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 3.844,
+   "out": 4.086,
+   "at": 2.085,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 4.221,
+   "out": 4.743,
+   "at": 2.327,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 5.226,
+   "out": 6.312,
+   "at": 2.849,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 7.006,
+   "out": 8.459,
+   "at": 3.935,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 8.599,
+   "out": 9.152,
+   "at": 5.388,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 10.5,
+   "out": 11.795,
+   "at": 5.941,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 12.208,
+   "out": 13.277,
+   "at": 7.236,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 13.887,
+   "out": 15.074,
+   "at": 8.305,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 15.138,
+   "out": 15.622,
+   "at": 9.492,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 16.727,
+   "out": 17.286,
+   "at": 9.976,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 17.423,
+   "out": 18.409,
+   "at": 10.535,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 18.491,
+   "out": 19.232,
+   "at": 11.521,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 20.768,
+   "out": 21.362,
+   "at": 12.262,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 21.434,
+   "out": 21.994,
+   "at": 12.856,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 23.318,
+   "out": 24.148,
+   "at": 13.416,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 24.325,
+   "out": 25.187,
+   "at": 14.246,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 25.947,
+   "out": 27.311,
+   "at": 15.108,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 28.135,
+   "out": 28.666,
+   "at": 16.472,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 28.74,
+   "out": 29.01,
+   "at": 17.003,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 29.07,
+   "out": 29.462,
+   "at": 17.273,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 29.528,
+   "out": 31.697,
+   "at": 17.665,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 32.68,
+   "out": 33.593,
+   "at": 19.834,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 34.75,
+   "out": 35.816,
+   "at": 20.747,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 36.021,
+   "out": 36.784,
+   "at": 21.813,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 36.936,
+   "out": 38.066,
+   "at": 22.576,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 39.457,
+   "out": 39.791,
+   "at": 23.706,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 40.538,
+   "out": 41.427,
+   "at": 24.04,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 41.654,
+   "out": 42.235,
+   "at": 24.929,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 43.029,
+   "out": 44.135,
+   "at": 25.51,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 44.197,
+   "out": 44.993,
+   "at": 26.616,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 47.767,
+   "out": 48.693,
+   "at": 27.412,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 49.089,
+   "out": 49.966,
+   "at": 28.338,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 50.027,
+   "out": 50.472,
+   "at": 29.215,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_125554.mp4",
+   "in": 2.15,
+   "out": 3.65,
+   "at": 29.66,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 54.467,
+   "out": 56.207,
+   "at": 31.16,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 56.275,
+   "out": 57.352,
+   "at": 32.9,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 60.2,
+   "out": 61.46,
+   "at": 33.977,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 63.483,
+   "out": 64.621,
+   "at": 35.237,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 64.735,
+   "out": 65.421,
+   "at": 36.375,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 65.502,
+   "out": 66.015,
+   "at": 37.061,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_130732.mp4",
+   "in": 3.9,
+   "out": 5.15,
+   "at": 37.574,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 67.055,
+   "out": 67.962,
+   "at": 38.824,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 68.038,
+   "out": 69.101,
+   "at": 39.731,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 69.721,
+   "out": 70.371,
+   "at": 40.794,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 70.494,
+   "out": 71.18,
+   "at": 41.444,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 71.251,
+   "out": 71.721,
+   "at": 42.13,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 72.643,
+   "out": 74.691,
+   "at": 42.6,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132443.mp4",
+   "in": 12.25,
+   "out": 13.25,
+   "at": 44.648,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 0.2,
+   "out": 2.3,
+   "at": 45.648,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 3.85,
+   "out": 6.45,
+   "at": 47.748,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 7.1,
+   "out": 8.2,
+   "at": 50.348,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 78.973,
+   "out": 80.741,
+   "at": 51.448,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 81.983,
+   "out": 83.803,
+   "at": 53.216,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 85.117,
+   "out": 86.624,
+   "at": 55.036,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_135928.mp4",
+   "in": 14.2,
+   "out": 16.0,
+   "at": 56.543,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_140327.mp4",
+   "in": 3.6,
+   "out": 5.0,
+   "at": 58.343,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_142535.mp4",
+   "in": 2.0,
+   "out": 3.0,
+   "at": 59.743,
+   "vol": 0.9
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 93.679,
+   "out": 95.618,
+   "at": 60.743,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 96.113,
+   "out": 96.504,
+   "at": 62.682,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 96.62,
+   "out": 98.124,
+   "at": 63.073,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 98.209,
+   "out": 98.628,
+   "at": 64.577,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 98.74,
+   "out": 99.22,
+   "at": 64.996,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 100.585,
+   "out": 101.505,
+   "at": 65.476,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 101.58,
+   "out": 103.023,
+   "at": 66.396,
+   "vol": 1.0
+  },
+  {
+   "src": "vo/aligofest_vo.wav",
+   "in": 103.096,
+   "out": 104.511,
+   "at": 67.839,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_133530.mp4",
+   "in": 6.6,
+   "out": 7.38,
+   "at": 0.0,
+   "vol": 0.3
+  },
+  {
+   "src": "rushes/aligofest/20261114_124838.mp4",
+   "in": 5.0,
+   "out": 5.78,
+   "at": 0.78,
+   "vol": 0.3
+  },
+  {
+   "src": "rushes/aligofest/VID_20261115_083120_852.mp4",
+   "in": 1.4,
+   "out": 2.689,
+   "at": 1.56,
+   "vol": 0.3
+  },
+  {
+   "src": "rushes/aligofest/20261114_133615.mp4",
+   "in": 1.2,
+   "out": 2.295,
+   "at": 13.416,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_131843.mp4",
+   "in": 0.8,
+   "out": 1.78,
+   "at": 14.511,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_132133.mp4",
+   "in": 3.6,
+   "out": 4.3,
+   "at": 15.491,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_132022.mp4",
+   "in": 1.6,
+   "out": 2.506,
+   "at": 16.191,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_125245.mp4",
+   "in": 4.4,
+   "out": 6.05,
+   "at": 17.097,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_131922.mp4",
+   "in": 4.0,
+   "out": 4.44,
+   "at": 18.747,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_133615.mp4",
+   "in": 2.6,
+   "out": 3.247,
+   "at": 19.187,
+   "vol": 0.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_142646.mp4",
+   "in": 0.0,
+   "out": 1.075,
+   "at": 20.747,
+   "vol": 0.2
+  },
+  {
+   "src": "rushes/aligofest/20261114_141228.mp4",
+   "in": 1.0,
+   "out": 1.45,
+   "at": 21.822,
+   "vol": 0.2
+  },
+  {
+   "src": "rushes/aligofest/20261114_141701.mp4",
+   "in": 4.5,
+   "out": 5.038,
+   "at": 22.272,
+   "vol": 0.2
+  },
+  {
+   "src": "rushes/aligofest/20261114_142829.mp4",
+   "in": 1.0,
+   "out": 1.896,
+   "at": 22.81,
+   "vol": 0.2
+  },
+  {
+   "src": "rushes/aligofest/20261114_142535.mp4",
+   "in": 3.0,
+   "out": 7.733,
+   "at": 60.743,
+   "vol": 0.3
+  }
+ ],
+ "video": [
+  {
+   "src": "rushes/aligofest/20261114_133530.mp4",
+   "in": 6.6,
+   "at": 0.0,
+   "dur": 0.78
+  },
+  {
+   "src": "rushes/aligofest/20261114_124838.mp4",
+   "in": 5.0,
+   "at": 0.78,
+   "dur": 0.78
+  },
+  {
+   "src": "rushes/aligofest/VID_20261115_083120_852.mp4",
+   "in": 1.4,
+   "at": 1.56,
+   "dur": 1.289
+  },
+  {
+   "src": "rushes/aligofest/20261114_124552.mp4",
+   "in": 1.4,
+   "at": 2.849,
+   "dur": 2.03
+  },
+  {
+   "src": "rushes/aligofest/20261114_125955.mp4",
+   "in": 1.2,
+   "at": 4.879,
+   "dur": 0.459
+  },
+  {
+   "src": "rushes/aligofest/20261114_134340.mp4",
+   "in": 2.0,
+   "at": 5.338,
+   "dur": 0.603
+  },
+  {
+   "src": "rushes/aligofest/20261114_130053.mp4",
+   "in": 3.9,
+   "at": 5.941,
+   "dur": 1.245
+  },
+  {
+   "src": "rushes/aligofest/20261114_134420.mp4",
+   "in": 3.6,
+   "at": 7.186,
+   "dur": 1.902
+  },
+  {
+   "src": "rushes/aligofest/20261114_130137.mp4",
+   "in": 12.2,
+   "at": 9.088,
+   "dur": 0.888
+  },
+  {
+   "src": "rushes/aligofest/20261114_124734.mp4",
+   "in": 0.3,
+   "at": 9.976,
+   "dur": 1.924
+  },
+  {
+   "src": "rushes/aligofest/20261114_124719.mp4",
+   "in": 6.2,
+   "at": 11.9,
+   "dur": 0.544
+  },
+  {
+   "src": "rushes/aligofest/20261114_140403.mp4",
+   "in": 1.0,
+   "at": 12.444,
+   "dur": 0.972
+  },
+  {
+   "src": "rushes/aligofest/20261114_133615.mp4",
+   "in": 1.2,
+   "at": 13.416,
+   "dur": 1.095
+  },
+  {
+   "src": "rushes/aligofest/20261114_131843.mp4",
+   "in": 0.8,
+   "at": 14.511,
+   "dur": 0.98
+  },
+  {
+   "src": "rushes/aligofest/20261114_132133.mp4",
+   "in": 3.6,
+   "at": 15.491,
+   "dur": 0.7
+  },
+  {
+   "src": "rushes/aligofest/20261114_132022.mp4",
+   "in": 1.6,
+   "at": 16.191,
+   "dur": 0.906
+  },
+  {
+   "src": "rushes/aligofest/20261114_125245.mp4",
+   "in": 4.4,
+   "at": 17.097,
+   "dur": 1.65
+  },
+  {
+   "src": "rushes/aligofest/20261114_131922.mp4",
+   "in": 4.0,
+   "at": 18.747,
+   "dur": 0.44
+  },
+  {
+   "src": "rushes/aligofest/20261114_133615.mp4",
+   "in": 2.6,
+   "at": 19.187,
+   "dur": 0.647
+  },
+  {
+   "src": "rushes/aligofest/20261114_124838.mp4",
+   "in": 6.0,
+   "at": 19.834,
+   "dur": 0.913
+  },
+  {
+   "src": "rushes/aligofest/20261114_142646.mp4",
+   "in": 0.0,
+   "at": 20.747,
+   "dur": 1.075
+  },
+  {
+   "src": "rushes/aligofest/20261114_141228.mp4",
+   "in": 1.0,
+   "at": 21.822,
+   "dur": 0.45
+  },
+  {
+   "src": "rushes/aligofest/20261114_141701.mp4",
+   "in": 4.5,
+   "at": 22.272,
+   "dur": 0.538
+  },
+  {
+   "src": "rushes/aligofest/20261114_142829.mp4",
+   "in": 1.0,
+   "at": 22.81,
+   "dur": 0.896
+  },
+  {
+   "src": "rushes/aligofest/20261114_124719.mp4",
+   "in": 2.4,
+   "at": 23.706,
+   "dur": 1.804
+  },
+  {
+   "src": "rushes/aligofest/20261114_124552.mp4",
+   "in": 2.8,
+   "at": 25.51,
+   "dur": 1.339
+  },
+  {
+   "src": "rushes/aligofest/20261114_125955.mp4",
+   "in": 1.0,
+   "at": 26.849,
+   "dur": 0.563
+  },
+  {
+   "src": "rushes/aligofest/20261114_124838.mp4",
+   "in": 8.9,
+   "at": 27.412,
+   "dur": 0.917
+  },
+  {
+   "src": "rushes/aligofest/20261114_124818.mp4",
+   "in": 8.3,
+   "at": 28.329,
+   "dur": 1.331
+  },
+  {
+   "src": "rushes/aligofest/20261114_125554.mp4",
+   "in": 2.15,
+   "at": 29.66,
+   "dur": 1.5
+  },
+  {
+   "src": "rushes/aligofest/20261114_125749.mp4",
+   "in": 0.6,
+   "at": 31.16,
+   "dur": 1.063
+  },
+  {
+   "src": "rushes/aligofest/20261114_125618.mp4",
+   "in": 0.3,
+   "at": 32.223,
+   "dur": 0.932
+  },
+  {
+   "src": "rushes/aligofest/20261114_125749.mp4",
+   "in": 1.9,
+   "at": 33.155,
+   "dur": 0.822
+  },
+  {
+   "src": "rushes/aligofest/20261114_124740.mp4",
+   "in": 0.0,
+   "at": 33.977,
+   "dur": 1.26
+  },
+  {
+   "src": "rushes/aligofest/20261114_130137.mp4",
+   "in": 2.0,
+   "at": 35.237,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_134420.mp4",
+   "in": 9.0,
+   "at": 36.237,
+   "dur": 1.337
+  },
+  {
+   "src": "rushes/aligofest/20261114_130732.mp4",
+   "in": 3.9,
+   "at": 37.574,
+   "dur": 1.25
+  },
+  {
+   "src": "rushes/aligofest/20261114_130743.mp4",
+   "in": 0.4,
+   "at": 38.824,
+   "dur": 1.159
+  },
+  {
+   "src": "rushes/aligofest/20261114_124719.mp4",
+   "in": 6.2,
+   "at": 39.983,
+   "dur": 0.811
+  },
+  {
+   "src": "rushes/aligofest/20261114_131116.mp4",
+   "in": 1.6,
+   "at": 40.794,
+   "dur": 2.253
+  },
+  {
+   "src": "rushes/aligofest/20261114_130053.mp4",
+   "in": 6.4,
+   "at": 43.047,
+   "dur": 1.18
+  },
+  {
+   "src": "rushes/aligofest/20261114_130137.mp4",
+   "in": 19.3,
+   "at": 44.227,
+   "dur": 0.421
+  },
+  {
+   "src": "rushes/aligofest/20261114_132443.mp4",
+   "in": 12.25,
+   "at": 44.648,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 0.2,
+   "at": 45.648,
+   "dur": 2.1
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 3.85,
+   "at": 47.748,
+   "dur": 2.6
+  },
+  {
+   "src": "rushes/aligofest/20261114_132507.mp4",
+   "in": 7.1,
+   "at": 50.348,
+   "dur": 1.1
+  },
+  {
+   "src": "rushes/aligofest/20261114_133006.mp4",
+   "in": 0.6,
+   "at": 51.448,
+   "dur": 1.768
+  },
+  {
+   "src": "rushes/aligofest/20261114_134340.mp4",
+   "in": 0.9,
+   "at": 53.216,
+   "dur": 1.367
+  },
+  {
+   "src": "rushes/aligofest/20261114_134401.mp4",
+   "in": 0.1,
+   "at": 54.583,
+   "dur": 0.453
+  },
+  {
+   "src": "rushes/aligofest/20261114_134340.mp4",
+   "in": 2.3,
+   "at": 55.036,
+   "dur": 0.693
+  },
+  {
+   "src": "rushes/aligofest/20261114_134420.mp4",
+   "in": 6.0,
+   "at": 55.729,
+   "dur": 0.814
+  },
+  {
+   "src": "rushes/aligofest/20261114_135928.mp4",
+   "in": 14.2,
+   "at": 56.543,
+   "dur": 1.8
+  },
+  {
+   "src": "rushes/aligofest/20261114_140327.mp4",
+   "in": 3.6,
+   "at": 58.343,
+   "dur": 1.4
+  },
+  {
+   "src": "rushes/aligofest/20261114_142535.mp4",
+   "in": 2.0,
+   "at": 59.743,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/aligofest/20261114_132133.mp4",
+   "in": 3.4,
+   "at": 60.743,
+   "dur": 1.251
+  },
+  {
+   "src": "rushes/aligofest/20261114_142603.mp4",
+   "in": 0.5,
+   "at": 61.994,
+   "dur": 0.688
+  },
+  {
+   "src": "rushes/aligofest/20261114_140403.mp4",
+   "in": 1.0,
+   "at": 62.682,
+   "dur": 1.481
+  },
+  {
+   "src": "rushes/aligofest/20261114_135928.mp4",
+   "in": 9.3,
+   "at": 64.163,
+   "dur": 1.313
+  },
+  {
+   "src": "rushes/aligofest/20261114_143338.mp4",
+   "in": 8.6,
+   "at": 65.476,
+   "dur": 3.778
+  }
+ ],
+ "subs": [
+  {
+   "words": [
+    "On",
+    "accueille"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 0.0,
+   "end": 0.495
+  },
+  {
+   "words": [
+    "le",
+    "plus",
+    "grand"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 0.495,
+   "end": 0.975
+  },
+  {
+   "words": [
+    "événement",
+    "d'aligot"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 0.975,
+   "end": 1.575
+  },
+  {
+   "words": [
+    "du",
+    "monde"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 1.575,
+   "end": 2.085
+  },
+  {
+   "words": [
+    "à",
+    "Toulouse"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "🧀",
+   "at": 2.085,
+   "end": 2.849
+  },
+  {
+   "words": [
+    "4",
+    "tonnes"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 2.849,
+   "end": 3.263
+  },
+  {
+   "words": [
+    "ont",
+    "été",
+    "servies"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 3.263,
+   "end": 3.935
+  },
+  {
+   "words": [
+    "aligot",
+    "saucisse"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 3.935,
+   "end": 4.689
+  },
+  {
+   "words": [
+    "à",
+    "volonté"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 4.689,
+   "end": 5.388
+  },
+  {
+   "words": [
+    "pour",
+    "tout",
+    "le",
+    "monde"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 5.388,
+   "end": 5.941
+  },
+  {
+   "words": [
+    "Sinon",
+    "moi",
+    "c'est",
+    "Harry"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 5.941,
+   "end": 7.236
+  },
+  {
+   "words": [
+    "l'influenceur",
+    "en",
+    "carton"
+   ],
+   "hl": [
+    0,
+    2
+   ],
+   "emoji": "",
+   "at": 7.236,
+   "end": 8.398
+  },
+  {
+   "words": [
+    "et",
+    "je",
+    "vous",
+    "partage"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 8.398,
+   "end": 8.938
+  },
+  {
+   "words": [
+    "les",
+    "bons",
+    "plans"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 8.938,
+   "end": 9.492
+  },
+  {
+   "words": [
+    "à",
+    "Toulouse"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 9.492,
+   "end": 9.976
+  },
+  {
+   "words": [
+    "Et",
+    "surtout"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 9.976,
+   "end": 10.535
+  },
+  {
+   "words": [
+    "on",
+    "avait",
+    "pour",
+    "objectif"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 10.535,
+   "end": 11.59
+  },
+  {
+   "words": [
+    "avec",
+    "les",
+    "copains"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 11.59,
+   "end": 12.262
+  },
+  {
+   "words": [
+    "de",
+    "manger",
+    "5",
+    "assiettes"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 12.262,
+   "end": 13.416
+  },
+  {
+   "words": [
+    "L'événement",
+    "a",
+    "réuni"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 13.416,
+   "end": 14.246
+  },
+  {
+   "words": [
+    "3000",
+    "personnes"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 14.246,
+   "end": 15.108
+  },
+  {
+   "words": [
+    "avec",
+    "une",
+    "ambiance"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 15.108,
+   "end": 15.901
+  },
+  {
+   "words": [
+    "de",
+    "folie"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 15.901,
+   "end": 16.472
+  },
+  {
+   "words": [
+    "et",
+    "a",
+    "servi"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 16.472,
+   "end": 17.003
+  },
+  {
+   "words": [
+    "plus",
+    "de",
+    "4",
+    "tonnes"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 17.003,
+   "end": 18.067
+  },
+  {
+   "words": [
+    "d'aligot"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 18.067,
+   "end": 18.437
+  },
+  {
+   "words": [
+    "ce",
+    "qui",
+    "est"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 18.437,
+   "end": 19.097
+  },
+  {
+   "words": [
+    "un",
+    "record",
+    "du",
+    "monde"
+   ],
+   "hl": [
+    1,
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 19.097,
+   "end": 19.834
+  },
+  {
+   "words": [
+    "Fier",
+    "d'être"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 19.834,
+   "end": 20.487
+  },
+  {
+   "words": [
+    "toulousaign"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 20.487,
+   "end": 20.747
+  },
+  {
+   "words": [
+    "Il",
+    "y",
+    "avait"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 20.807,
+   "end": 21.157
+  },
+  {
+   "words": [
+    "un",
+    "beer",
+    "pong"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 21.157,
+   "end": 21.872
+  },
+  {
+   "words": [
+    "plein",
+    "d'activités"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 21.872,
+   "end": 22.576
+  },
+  {
+   "words": [
+    "et",
+    "des",
+    "cookies"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 22.576,
+   "end": 23.12
+  },
+  {
+   "words": [
+    "à",
+    "l'aligot"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 23.12,
+   "end": 23.706
+  },
+  {
+   "words": [
+    "Bref"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 23.706,
+   "end": 24.142
+  },
+  {
+   "words": [
+    "on",
+    "démarre"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 24.142,
+   "end": 24.402
+  },
+  {
+   "words": [
+    "la",
+    "compète"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 24.462,
+   "end": 25.015
+  },
+  {
+   "words": [
+    "prêt",
+    "à",
+    "attaquer"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 25.015,
+   "end": 25.51
+  },
+  {
+   "words": [
+    "On",
+    "a",
+    "été",
+    "servis"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 25.51,
+   "end": 26.221
+  },
+  {
+   "words": [
+    "direct"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 26.221,
+   "end": 26.616
+  },
+  {
+   "words": [
+    "0",
+    "seconde"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 26.616,
+   "end": 27.299
+  },
+  {
+   "words": [
+    "d'attente"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 27.299,
+   "end": 27.412
+  },
+  {
+   "words": [
+    "La",
+    "saucisse"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 27.412,
+   "end": 27.883
+  },
+  {
+   "words": [
+    "était",
+    "bonne"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 27.883,
+   "end": 28.305
+  },
+  {
+   "words": [
+    "et",
+    "l'aligot"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 28.305,
+   "end": 28.849
+  },
+  {
+   "words": [
+    "passait",
+    "très",
+    "bien"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 28.849,
+   "end": 29.66
+  },
+  {
+   "words": [
+    "Et",
+    "d'une",
+    "!"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 29.66,
+   "end": 31.16
+  },
+  {
+   "words": [
+    "On",
+    "enchaîne",
+    "direct"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 31.16,
+   "end": 31.793
+  },
+  {
+   "words": [
+    "avec",
+    "la",
+    "deuxième"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 31.793,
+   "end": 32.533
+  },
+  {
+   "words": [
+    "assiette"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 32.533,
+   "end": 32.9
+  },
+  {
+   "words": [
+    "pour",
+    "20",
+    "secondes"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 32.9,
+   "end": 33.977
+  },
+  {
+   "words": [
+    "d'attente"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 33.977,
+   "end": 33.977
+  },
+  {
+   "words": [
+    "ça",
+    "a",
+    "laissé"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 33.977,
+   "end": 34.377
+  },
+  {
+   "words": [
+    "le",
+    "temps",
+    "de",
+    "digérer"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 34.377,
+   "end": 35.237
+  },
+  {
+   "words": [
+    "L'astuce",
+    "avec",
+    "l'aligot"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 35.237,
+   "end": 36.287
+  },
+  {
+   "words": [
+    "c'est",
+    "de",
+    "le",
+    "manger"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 36.287,
+   "end": 37.04
+  },
+  {
+   "words": [
+    "tant",
+    "que"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 37.04,
+   "end": 37.319
+  },
+  {
+   "words": [
+    "c'est",
+    "chaud"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 37.319,
+   "end": 37.574
+  },
+  {
+   "words": [
+    "Et",
+    "de",
+    "deux",
+    "!"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 37.639,
+   "end": 38.824
+  },
+  {
+   "words": [
+    "La",
+    "troisième",
+    "assiette"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 38.824,
+   "end": 39.733
+  },
+  {
+   "words": [
+    "ils",
+    "ont",
+    "voulu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 39.733,
+   "end": 40.153
+  },
+  {
+   "words": [
+    "nous",
+    "achever"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 40.153,
+   "end": 40.794
+  },
+  {
+   "words": [
+    "Il",
+    "y",
+    "avait"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 40.794,
+   "end": 41.073
+  },
+  {
+   "words": [
+    "le",
+    "double"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 41.114,
+   "end": 41.47
+  },
+  {
+   "words": [
+    "l'assiette",
+    "pesait"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 41.47,
+   "end": 42.159
+  },
+  {
+   "words": [
+    "1",
+    "kg"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 42.159,
+   "end": 42.6
+  },
+  {
+   "words": [
+    "mais",
+    "c'était"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 42.6,
+   "end": 43.097
+  },
+  {
+   "words": [
+    "super",
+    "filant"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 43.097,
+   "end": 44.037
+  },
+  {
+   "words": [
+    "un",
+    "vrai",
+    "délice"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 44.037,
+   "end": 44.648
+  },
+  {
+   "words": [
+    "Et",
+    "de",
+    "trois",
+    "!"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 44.648,
+   "end": 45.648
+  },
+  {
+   "words": [
+    "Alors",
+    "Marie"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 45.648,
+   "end": 46.728
+  },
+  {
+   "words": [
+    "comment",
+    "ça"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 46.728,
+   "end": 46.888
+  },
+  {
+   "words": [
+    "se",
+    "passe",
+    "là",
+    "?"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 47.048,
+   "end": 47.748
+  },
+  {
+   "words": [
+    "C'est",
+    "un",
+    "peu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 47.748,
+   "end": 48.878
+  },
+  {
+   "words": [
+    "compliqué",
+    "là"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 48.878,
+   "end": 49.458
+  },
+  {
+   "words": [
+    "je",
+    "trouve,",
+    "non",
+    "?"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 49.458,
+   "end": 50.348
+  },
+  {
+   "words": [
+    "Allez",
+    "Marie",
+    "!"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 50.348,
+   "end": 51.448
+  },
+  {
+   "words": [
+    "On",
+    "a",
+    "malheureusement"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 51.448,
+   "end": 52.055
+  },
+  {
+   "words": [
+    "perdu",
+    "Marie"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 52.055,
+   "end": 52.615
+  },
+  {
+   "words": [
+    "sur",
+    "le",
+    "chemin"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 52.615,
+   "end": 53.216
+  },
+  {
+   "words": [
+    "La",
+    "quatrième",
+    "assiette"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 53.216,
+   "end": 53.993
+  },
+  {
+   "words": [
+    "était",
+    "encore"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 53.993,
+   "end": 54.453
+  },
+  {
+   "words": [
+    "plus",
+    "gourmande"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 54.453,
+   "end": 55.036
+  },
+  {
+   "words": [
+    "et",
+    "j'ai",
+    "négocié"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 55.036,
+   "end": 55.639
+  },
+  {
+   "words": [
+    "une",
+    "saucisse",
+    "de",
+    "plus"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 55.639,
+   "end": 56.543
+  },
+  {
+   "words": [
+    "Et",
+    "de",
+    "quatre",
+    "!"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 58.343,
+   "end": 59.743
+  },
+  {
+   "words": [
+    "J'ai",
+    "voulu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 60.743,
+   "end": 61.144
+  },
+  {
+   "words": [
+    "faire",
+    "une",
+    "pause"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 61.144,
+   "end": 61.604
+  },
+  {
+   "words": [
+    "avec",
+    "la",
+    "peña",
+    "baiona"
+   ],
+   "hl": [
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 61.604,
+   "end": 62.682
+  },
+  {
+   "words": [
+    "mais",
+    "avec"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 62.682,
+   "end": 63.093
+  },
+  {
+   "words": [
+    "4",
+    "assiettes",
+    "d'aligot"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 63.093,
+   "end": 63.933
+  },
+  {
+   "words": [
+    "dans",
+    "le",
+    "gosier"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 63.933,
+   "end": 64.598
+  },
+  {
+   "words": [
+    "j'étais",
+    "pas",
+    "serein"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 64.598,
+   "end": 65.476
+  },
+  {
+   "words": [
+    "La",
+    "lutte"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 65.476,
+   "end": 65.811
+  },
+  {
+   "words": [
+    "a",
+    "été",
+    "dure"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 65.811,
+   "end": 66.496
+  },
+  {
+   "words": [
+    "mais",
+    "nous",
+    "rentrons"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 66.496,
+   "end": 67.216
+  },
+  {
+   "words": [
+    "victorieux"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 67.216,
+   "end": 67.656
+  },
+  {
+   "words": [
+    "prêts",
+    "à",
+    "revenir"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 67.656,
+   "end": 68.503
+  },
+  {
+   "words": [
+    "l'année",
+    "prochaine"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 68.503,
+   "end": 69.254
+  }
+ ],
+ "overlays": [
+  {
+   "type": "title",
+   "at": 2.336,
+   "dur": 1.3
+  },
+  {
+   "type": "nickname",
+   "at": 6.881,
+   "dur": 2.7,
+   "lines": [
+    "L'influenceur",
+    "en carton"
+   ],
+   "in": "slide",
+   "out": "slide"
+  },
+  {
+   "type": "counter",
+   "at": 29.41,
+   "dur": 2.05,
+   "steps": [
+    [
+     0,
+     0
+    ],
+    [
+     0.45,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "counter",
+   "at": 37.324,
+   "dur": 2.05,
+   "steps": [
+    [
+     0,
+     1
+    ],
+    [
+     0.45,
+     2
+    ]
+   ]
+  },
+  {
+   "type": "counter",
+   "at": 44.398,
+   "dur": 2.05,
+   "steps": [
+    [
+     0,
+     2
+    ],
+    [
+     0.45,
+     3
+    ]
+   ]
+  },
+  {
+   "type": "counter",
+   "at": 58.293,
+   "dur": 1.45,
+   "steps": [
+    [
+     0,
+     3
+    ],
+    [
+     0.45,
+     4
+    ]
+   ]
+  },
+  {
+   "type": "scores",
+   "at": 65.976,
+   "dur": 3.278,
+   "rows": [
+    [
+     "Marie",
+     "2 assiettes"
+    ],
+    [
+     "Gouz",
+     "3 assiettes"
+    ],
+    [
+     "Harry",
+     "4 assiettes",
+     "+ 5 saucisses"
+    ]
+   ],
+   "step": 0.6
+  }
+ ],
+ "sfx": [
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 2.336,
+   "vol": 2.0
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 29.86,
+   "vol": 1.2
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 37.774,
+   "vol": 1.2
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 44.848,
+   "vol": 1.2
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 58.743,
+   "vol": 1.2
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 65.976,
+   "vol": 0.8
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 66.576,
+   "vol": 0.8
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 67.176,
+   "vol": 0.8
+  }
+ ],
+ "mix": "mix/aligofest.wav"
+}

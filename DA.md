@@ -168,5 +168,23 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 6. 🟡 Les Reels en dessous ont souvent un hook « description » (gastronomie, ambiance) sans prix ni promesse.
 7. 🟡 Le Mood : ouvrir sur une **capture d'un média** (La Dépêche) = preuve sociale + prix (5 €) — piste à tester (pas de stats).
 
+## 12. Vidéos « divers » (ni Guest Lunch ni test solo) — Aligofest, nov. 2026
+- ✅ **Orthographe voulue : « toulousaign »** (toujours, dans « Fier d'être *toulousaign* »)
+- ✅ Carton titre (DA Kebab) pour présenter l'événement, même hors série
+- ✅ Pas de surnom à l'écran pour les amis (Gouz, Marie) ; seulement Harry « L'influenceur en carton »
+- ✅ Défi chiffré (« manger 5 assiettes ») → **compteur d'assiettes** à l'écran ; la VO est **interrompue par le son direct** des « Et d'une ! / Et de deux ! » face cam
+- 🟡 Scores finaux en texte sur le dernier plan (pas de carton), **la vidéo finit sur la VO**, pas sur un bruitage
+- 🟡 Son direct d'ambiance (foule, fanfare / peña baiona) sous la VO, très bas, quand il est propre
+- ✅ Voix off : Harry répète une phrase quand il la rate → **toujours la dernière prise**
+- ✏️ (v2) Compteur : **pas affiché en permanence** → il apparaît juste autour de chaque « Et de N » et disparaît peu après ; icônes = **l'assiette aligot-saucisse du carton titre** (pas des ronds)
+- ✏️ (v2) **Ne jamais manger la fin d'un mot** en resserrant (« compèt », « attaqu », « direc », « a(vec) ») : la coupe se fait après la queue du mot, même si la vidéo s'allonge un peu
+- ✏️ (v2) **Ce qu'on dit = ce qu'on voit** : chaque élément cité en VO (beer pong, cookies, peña…) doit apparaître à l'image sur son mot ; montrer l'**action** (foule portée pendant la peña) plutôt que juste les musiciens
+- ✏️ (v2) Accroche : ouvrir sur le **plan le plus spectaculaire du lieu** (le cuisinier qui mélange l'aligot géant), assez long pour être lu (≥ 1,2 s) — un plan caché par le carton titre ne compte pas
+- ✏️ (v2) Plans où Harry joue la comédie : prendre **à partir du moment où il joue**, jamais l'attente avant
+- ✅ Harry aime les moments vrais où il galère (souffle à la 4e assiette) → les garder, en son direct
+- ✏️ (v3) **Jamais deux plans du même rush à la suite** (coupe puis retour sur le même plan = bizarre, ex. présentation « Sinon moi c'est Harry ») → alterner avec un autre rush
+- ✏️ (v3) Accroche : plans de **durée régulière** (~0,8 s chacun), pas un long puis des courts ; **Harry qui croque la saucisse dès l'accroche** (et dans sa présentation)
+- ✏️ (v3) Musique sous droits (peña baiona…) : ne pas l'intégrer au montage → Harry l'ajoute dans l'app à la publication
+
 ## Questions ouvertes
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)

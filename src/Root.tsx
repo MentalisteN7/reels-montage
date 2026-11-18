@@ -1,6 +1,7 @@
 import React from 'react';
 import {Composition, AbsoluteFill, useCurrentFrame, interpolate} from 'remotion';
 import {Marcello, MARCELLO_FRAMES} from './episodes/marcello/Marcello';
+import {Aligofest, ALIGOFEST_FRAMES} from './episodes/aligofest/Aligofest';
 
 const Test: React.FC = () => {
   const f = useCurrentFrame();
@@ -17,5 +18,6 @@ export const Root: React.FC = () => (
   <>
     <Composition id="Test" component={Test} durationInFrames={30} fps={30} width={1080} height={1920} />
     <Composition id="Marcello" component={Marcello} durationInFrames={MARCELLO_FRAMES} fps={30} width={1080} height={1920} />
+    <Composition id="Aligofest" component={Aligofest} durationInFrames={ALIGOFEST_FRAMES} fps={30} width={1080} height={1920} />
   </>
 );

@@ -11,3 +11,5 @@
 | **Guigui** | `guigui.jpg` | Grand et mince, brun, barbe courte, gros manteau marron / camel | « Le grand Guigui » | 🟡 proposé par Claude |
 | **Meg** | `meg.jpg` | Longs cheveux blonds, manteau long en cuir noir. Italienne | « La vraie Italienne » | 🟡 proposé par Claude |
 | **Antho** | `antho.jpg` | Brun bouclé, barbe fournie, bonnet gris, pull vert foncé | « L'ami d'enfance (depuis 1 an) » | 🟡 proposé par Claude |
+| **Gouz** | (Aligofest, nov. 2026) | Brun, lunettes, moustache, chemise à carreaux marron/beige sur t-shirt vert (canard) | — (pas de surnom à l'écran, Aligofest) | ✅ |
+| **Marie** | (Aligofest, nov. 2026) | Longs cheveux roux, veste bleue | — (pas de surnom à l'écran, Aligofest) | ✅ |
