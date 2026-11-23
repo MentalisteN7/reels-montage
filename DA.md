@@ -170,6 +170,7 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 
 ## 12. Vidéos « divers » (ni Guest Lunch ni test solo) — Aligofest, nov. 2026
 - ✅ **Orthographe voulue : « toulousaign »** (toujours, dans « Fier d'être *toulousaign* »)
+- ✏️ (10K v4) **Orthographe voulue : « copaign »** (« mon *copaign* », « tague le ou la copaign ») — même logique que « toulousaign »
 - ✅ Carton titre (DA Kebab) pour présenter l'événement, même hors série
 - ✅ Pas de surnom à l'écran pour les amis (Gouz, Marie) ; seulement Harry « L'influenceur en carton »
 - ✅ Défi chiffré (« manger 5 assiettes ») → **compteur d'assiettes** à l'écran ; la VO est **interrompue par le son direct** des « Et d'une ! / Et de deux ! » face cam
@@ -203,3 +204,30 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 
 ## Questions ouvertes
 - Analyse du compte @guestlunch (bloquée : Instagram refuse l'accès automatisé)
+
+## 13. Annonce « Soirée 10K » (nov. 2026) — choix SPÉCIFIQUES à cette vidéo (pas des règles globales)
+- ✅ Vidéo d'annonce : but = que les gens retiennent **date, lieu, prix** et viennent (les vidéos « com » font ~5k vues, ce n'est pas un problème de montage)
+- ✅ Pas de voix off séparée : Harry parle face cam (son direct). On garde la dernière prise, on retire les bavardages avec la personne qui filme
+- ✅ **Musique épique** cette fois (exception au « pas de musique ») : libre de droits (Mixkit « I Won't Surrender »), forte sur l'intro et le récap, basse sous la parole
+- ✏️ (v3) Page Insta @guestlunch recréée avec compteur 0 → 10 000 : **pas au début** → posée sur « pour fêter mes 10 000 abonnés », le compteur touche 10 000 sur le mot. **Pas de rushes/flash de Reels sur cette phrase**
+- ✏️ (v3) **Respecter l'ordre de tournage des rushes** (Harry les enregistre dans l'ordre). 2 versions : A ouvre sur « soirée exceptionnelle », B sur « Moi c'est Harry, l'influenceur en carton »
+- ✏️ (v3) **Trop de pops** → seulement sur les moments forts (date, tampon 10 €, récap) ; ding sur 10 000, bruit de papier sur le calendrier
+- ✏️ (v3) Vérifier **qui est à l'image** sur chaque B-roll (Antho sur « boissons maison » → remplacé par Harry qui boit)
+- ✏️ (v3) « Note ça dans ton agenda » → **animation de calendrier** (le 10 entouré au feutre)
+- ✏️ (v3) Texte du récap dans les **zones sûres TikTok/Insta** (x 80–900, y 220–1400 sur 1080×1920)
+- ✏️ (v7) Surveiller les **éléments parasites** qui entrent dans le cadre (vélo sur « officiellement ») → couvrir/décaler (compteur Insta lancé plus tôt)
+- ✏️ (v4) **Jamais de rush qui « attend le signal »** : quand Harry marche vers la caméra, l'image commence quand il marche déjà (pas statique). S'il parle avant, on décale l'image tant qu'il est loin (lèvres illisibles), puis on resynchronise derrière un B-roll
+- ✏️ (v4) Le plan où le téléphone se relève sur la place (« lieu exceptionnel ») : **non** → rester sur Harry qui parle
+- ✅ (v4) Voix « clarifiée » : « le son est bien »
+- ✏️ (v7) **Popups d'info : DA v1 (texte ROUGE slab, gros, penché, effet pop + bruit) mais fond BLANC au lieu du papier** (le papier seulement pour le carton final). Variante papier transparent « pas mal », retour d'Harry à venir. (v6 : le look sobre façon POV et l'entrée en fondu = mal compris, abandonnés)
+- ✏️ (v7) **Quand une popup affiche l'info, on RETIRE le sous-titre qui la répète** (Jeudi 10 décembre, L'Annexe Saint-Georges, tapas/boissons, 10 €) — pas l'inverse → ✏️ (v8) **finalement sous-titres remis partout**, sauf « Jeudi 10 décembre » (1re séquence)
+- ✏️ (v8) **Look retenu : papier transparent** pour les popups ; **la 1re popup (date) en fond blanc plein**
+- ✏️ (v8) **Sous-titres : toujours une majuscule au début de chaque apparition** (règle générale, s'applique aux autres vidéos)
+- ✏️ (v8) **Apparition d'un prix : bruit d'argent** (pièces, Mixkit « Clinking coins ») au lieu du pop → ✏️ (v9) trop « cash » : **son « Coin » de jeu vidéo, discret** (Mixkit « Winning a coin, video game » → `public/sfx/coin_2069.mp3`, vol 0,45)
+- ✏️ (v10) **SON DE PRIX VALIDÉ ✅ : Pixabay « Cashier "ka-ching" sound effect » (u_byub5wd934, n°129698)** → `public/sfx/kaching.wav` (blanc de 0,19 s retiré pour tomber pile sur l'apparition du prix), vol 0,9. Harry le compare au « Money Chakin » de CapCut. Le « Coin » de jeu vidéo et les pièces réalistes = refusés. **À réutiliser à chaque apparition d'un prix.**
+  ⚠️ Sur Pixabay, ne pas déduire le fichier d'un clic « play » dans une liste (mauvaises correspondances) : prendre l'URL de téléchargement de la page du son (`?filename=...-<n°>.mp3`)
+- ✏️ (v6) Récap : police des 3 premières lignes « pas jolie » (Arial + Roboto Slab) → Playfair Display (à valider)
+- ✏️ (v5) Antho = le gars à la casquette beige de la vidéo Annexe n°2 ; ne pas présenter des gens comme « en couple » sans savoir
+- 🟡 (v3) Harry trouve qu'il n'articule pas assez → voix « clarifiée » (EQ de présence, débruitage léger, compression) — avant/après à valider
+- ✏️ **Pas de carte Google Maps avec la note pour l'Annexe Saint-Georges** (note pas assez bonne) → simple étiquette du lieu. Décision propre à cette vidéo : la carte Maps reste la règle ailleurs (§6)
+- 🟡 Étiquettes papier rouges pour chaque info (date, lieu, tapas, tampon « 10 € », jeu concours) + carton récap plein écran à la fin (à capturer) — « top » (v2) ; ✏️ « Places limitées » sans « sans résa »

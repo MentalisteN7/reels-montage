@@ -1,0 +1,659 @@
+{
+ "fps": 30,
+ "duration": 26.87,
+ "audio": [
+  {
+   "src": "rushes/10k/20261121_153142.mp4",
+   "in": 3.15,
+   "out": 6.42,
+   "at": 0.0,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_153558.mp4",
+   "in": 1.0,
+   "out": 6.1,
+   "at": 3.27,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_154131.mp4",
+   "in": 3.3,
+   "out": 8.3,
+   "at": 8.37,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_154822.mp4",
+   "in": 11.7,
+   "out": 15.66,
+   "at": 13.37,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_155426.mp4",
+   "in": 0.72,
+   "out": 4.36,
+   "at": 17.33,
+   "vol": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_155426.mp4",
+   "in": 4.7,
+   "out": 7.2,
+   "at": 20.97,
+   "vol": 1.0
+  }
+ ],
+ "video": [
+  {
+   "src": "rushes/10k/20261121_153142.mp4",
+   "in": 3.15,
+   "at": 0.0,
+   "dur": 3.27
+  },
+  {
+   "src": "rushes/10k/20261121_153558.mp4",
+   "in": 1.33,
+   "at": 3.27,
+   "dur": 5.1
+  },
+  {
+   "src": "rushes/10k/20261121_154131.mp4",
+   "in": 3.3,
+   "at": 8.37,
+   "dur": 1.07
+  },
+  {
+   "src": "rushes/10k/flash/annexe_st_georges.mp4",
+   "in": 4.0,
+   "at": 9.44,
+   "dur": 0.86
+  },
+  {
+   "src": "rushes/10k/flash/annexe_st_georges.mp4",
+   "in": 5.0,
+   "at": 10.3,
+   "dur": 0.94
+  },
+  {
+   "src": "rushes/10k/flash/harry_boisson.mp4",
+   "in": 0.0,
+   "at": 11.24,
+   "dur": 1.0
+  },
+  {
+   "src": "rushes/10k/20261121_154131.mp4",
+   "in": 7.17,
+   "at": 12.24,
+   "dur": 1.13
+  },
+  {
+   "src": "rushes/10k/20261121_154822.mp4",
+   "in": 11.7,
+   "at": 13.37,
+   "dur": 2.27
+  },
+  {
+   "src": "rushes/10k/flash/nachos_balma.mp4",
+   "in": 0.0,
+   "at": 15.64,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/10k/20261121_154822.mp4",
+   "in": 14.77,
+   "at": 16.44,
+   "dur": 0.89
+  },
+  {
+   "src": "rushes/10k/20261121_155426.mp4",
+   "in": 2.2,
+   "at": 17.33,
+   "dur": 0.74
+  },
+  {
+   "src": "rushes/10k/flash/annexe_st_georges_2.mp4",
+   "in": 0.92,
+   "at": 18.07,
+   "dur": 0.81
+  },
+  {
+   "src": "rushes/10k/flash/annexe_st_georges_2.mp4",
+   "in": 6.5,
+   "at": 18.88,
+   "dur": 0.56
+  },
+  {
+   "src": "rushes/10k/flash/annexe_st_georges_2.mp4",
+   "in": 5.05,
+   "at": 19.44,
+   "dur": 0.8
+  },
+  {
+   "src": "rushes/10k/20261121_155426.mp4",
+   "in": 3.63,
+   "at": 20.24,
+   "dur": 0.73
+  },
+  {
+   "src": "rushes/10k/20261121_155426.mp4",
+   "in": 4.7,
+   "at": 20.97,
+   "dur": 2.5
+  }
+ ],
+ "subs": [
+  {
+   "words": [
+    "Soirée",
+    "exceptionnelle"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 1.21,
+   "end": 2.03
+  },
+  {
+   "words": [
+    "Dans",
+    "un",
+    "lieu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 2.03,
+   "end": 2.59
+  },
+  {
+   "words": [
+    "Exceptionnel"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 2.59,
+   "end": 3.27
+  },
+  {
+   "words": [
+    "Moi",
+    "c'est",
+    "Harry"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 3.27,
+   "end": 4.39
+  },
+  {
+   "words": [
+    "L'influenceur",
+    "en",
+    "carton"
+   ],
+   "hl": [
+    0,
+    2
+   ],
+   "emoji": "",
+   "at": 4.39,
+   "end": 5.35
+  },
+  {
+   "words": [
+    "Et",
+    "j'organise"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 5.35,
+   "end": 5.85
+  },
+  {
+   "words": [
+    "Officiellement"
+   ],
+   "hl": [
+    0
+   ],
+   "emoji": "",
+   "at": 5.85,
+   "end": 6.49
+  },
+  {
+   "words": [
+    "Une",
+    "soirée"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 6.49,
+   "end": 6.89
+  },
+  {
+   "words": [
+    "Pour",
+    "fêter"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 6.89,
+   "end": 7.33
+  },
+  {
+   "words": [
+    "Mes",
+    "10",
+    "000",
+    "abonnés"
+   ],
+   "hl": [
+    1,
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 7.33,
+   "end": 8.37
+  },
+  {
+   "words": [
+    "L'Annexe",
+    "Saint-Georges"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 8.37,
+   "end": 9.15
+  },
+  {
+   "words": [
+    "Nous",
+    "ouvre",
+    "ses",
+    "portes"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 9.15,
+   "end": 10.19
+  },
+  {
+   "words": [
+    "Il",
+    "y",
+    "aura",
+    "tapas"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 10.19,
+   "end": 11.29
+  },
+  {
+   "words": [
+    "Boissons",
+    "maison"
+   ],
+   "hl": [
+    0,
+    1
+   ],
+   "emoji": "",
+   "at": 11.29,
+   "end": 11.85
+  },
+  {
+   "words": [
+    "Et",
+    "tout",
+    "ça"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 11.85,
+   "end": 12.51
+  },
+  {
+   "words": [
+    "Pour",
+    "10",
+    "€"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 12.51,
+   "end": 13.37
+  },
+  {
+   "words": [
+    "Un",
+    "tirage",
+    "au",
+    "sort"
+   ],
+   "hl": [
+    1,
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 13.37,
+   "end": 14.37
+  },
+  {
+   "words": [
+    "Aura",
+    "également",
+    "lieu"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 14.37,
+   "end": 14.97
+  },
+  {
+   "words": [
+    "Pour",
+    "gagner"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 14.97,
+   "end": 15.45
+  },
+  {
+   "words": [
+    "Des",
+    "restos",
+    "gratuits"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 15.45,
+   "end": 16.33
+  },
+  {
+   "words": [
+    "Et",
+    "plein"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 16.33,
+   "end": 16.75
+  },
+  {
+   "words": [
+    "De",
+    "lots",
+    "différents"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 16.75,
+   "end": 17.33
+  },
+  {
+   "words": [
+    "Tu",
+    "peux",
+    "venir",
+    "seul"
+   ],
+   "hl": [
+    3
+   ],
+   "emoji": "",
+   "at": 17.33,
+   "end": 18.79
+  },
+  {
+   "words": [
+    "En",
+    "couple"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 18.79,
+   "end": 19.11
+  },
+  {
+   "words": [
+    "Ou",
+    "entre",
+    "amis"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 19.11,
+   "end": 19.83
+  },
+  {
+   "words": [
+    "T'es",
+    "le",
+    "bienvenu"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 19.83,
+   "end": 20.55
+  },
+  {
+   "words": [
+    "Mon",
+    "copaign",
+    "!"
+   ],
+   "hl": [
+    1
+   ],
+   "emoji": "",
+   "at": 20.55,
+   "end": 21.11
+  },
+  {
+   "words": [
+    "Alors",
+    "note",
+    "vite",
+    "ça"
+   ],
+   "hl": [
+    1,
+    2,
+    3
+   ],
+   "emoji": "",
+   "at": 21.11,
+   "end": 21.617
+  },
+  {
+   "words": [
+    "Dans",
+    "ton",
+    "agenda"
+   ],
+   "hl": [
+    2
+   ],
+   "emoji": "",
+   "at": 21.617,
+   "end": 22.13
+  },
+  {
+   "words": [
+    "Et",
+    "on",
+    "se",
+    "dit"
+   ],
+   "hl": [],
+   "emoji": "",
+   "at": 22.13,
+   "end": 22.85
+  },
+  {
+   "words": [
+    "À",
+    "très",
+    "vite",
+    "!"
+   ],
+   "hl": [
+    1,
+    2
+   ],
+   "emoji": "",
+   "at": 22.85,
+   "end": 23.47
+  }
+ ],
+ "overlays": [
+  {
+   "type": "card",
+   "kind": "date",
+   "at": 0.1,
+   "dur": 2.44,
+   "lines": [
+    "Jeudi 10 décembre",
+    "19h30"
+   ],
+   "bg": "blanc"
+  },
+  {
+   "type": "nickname",
+   "at": 4.34,
+   "dur": 1.11,
+   "lines": [
+    "L'influenceur",
+    "en carton"
+   ],
+   "in": "slide",
+   "out": "rise"
+  },
+  {
+   "type": "insta",
+   "at": 5.45,
+   "dur": 2.92,
+   "hit": 2.28
+  },
+  {
+   "type": "card",
+   "kind": "place",
+   "at": 8.47,
+   "dur": 1.78,
+   "lines": [
+    "L'Annexe",
+    "Saint-Georges"
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "info",
+   "at": 10.3,
+   "dur": 1.82,
+   "lines": [
+    "Tapas",
+    "+ boissons maison"
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "price",
+   "at": 12.46,
+   "dur": 0.96,
+   "lines": [
+    "10 €"
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "info",
+   "at": 13.47,
+   "dur": 2.17,
+   "lines": [
+    "Jeu concours",
+    "lien en bio"
+   ]
+  },
+  {
+   "type": "calendar",
+   "at": 21.137,
+   "dur": 1.533,
+   "circle": 0.733
+  },
+  {
+   "type": "recap",
+   "at": 23.32,
+   "dur": 3.55
+  }
+ ],
+ "sfx": [
+  {
+   "src": "sfx/music_10k_bed_A.wav",
+   "at": 0,
+   "vol": 1.0
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 0.1,
+   "vol": 1.0
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "at": 7.73,
+   "vol": 1.0
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 8.47,
+   "vol": 1.0
+  },
+  {
+   "src": "sfx/kaching.wav",
+   "at": 12.46,
+   "vol": 0.9
+  },
+  {
+   "src": "sfx/paper.mp3",
+   "at": 21.137,
+   "vol": 1.0
+  },
+  {
+   "src": "sfx/pop_harry.wav",
+   "at": 23.32,
+   "vol": 1.0
+  }
+ ],
+ "mix": "mix/10k_A.wav"
+}
