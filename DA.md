@@ -231,3 +231,12 @@ Réfs : Mac Ankara (57 s, 48 plans, ~1,2 s/plan) · La Côte de Bœuf (63 s, 41 
 - 🟡 (v3) Harry trouve qu'il n'articule pas assez → voix « clarifiée » (EQ de présence, débruitage léger, compression) — avant/après à valider
 - ✏️ **Pas de carte Google Maps avec la note pour l'Annexe Saint-Georges** (note pas assez bonne) → simple étiquette du lieu. Décision propre à cette vidéo : la carte Maps reste la règle ailleurs (§6)
 - 🟡 Étiquettes papier rouges pour chaque info (date, lieu, tapas, tampon « 10 € », jeu concours) + carton récap plein écran à la fin (à capturer) — « top » (v2) ; ✏️ « Places limitées » sans « sans résa »
+
+## 15. Format « Guest Interview » — logo animé (nov. 2026)
+- ✅ Logo = salière Guest Lunch (`grain_de_sel_noir.svg`, calques saliere/corps/bouchon/trous + grain-1..7), trait **#1F2A44** (le SVG source est en noir #000000 → à corriger)
+- ✅ Animation : salière droite → bascule à -128° avec léger dépassement → secousse → grains 1 à 7 qui tombent (gravité) → finit exactement sur le logo, puis fixe. Pas de boucle
+- ✅ (v2) **Rythme « douce »** retenu (~1,65 s), la variante punchy (~1,1 s) est écartée
+- ✏️ (v2) **Pas de pastille blanche : fond 100 % transparent**. Lisibilité sur fond sombre assurée par un **fin halo clair** autour du trait (✅ validé par Harry)
+- ✏️ (v2) **Taille ×1,5** : dessin du logo ≈ 225 px de haut (1080×1920), en haut à droite, marge droite 90 px, haut 280 px (sous l'interface Insta/TikTok)
+- 🟡 Version mini (0,5 s : secousse + 1 grain) à chaque question ; version titre « Guest Interview » (grand logo + texte TikTok Sans 800) en début de vidéo
+- Code : `src/logo/GuestLogo.tsx` ; exports transparents dans `out/logo/` (ProRes 4444 `.mov` pour Premiere, WebM VP9 alpha), `Logo-fixe.png` pour le reste de la vidéo
